@@ -1,3 +1,5 @@
+
+
 - day: '2019-10-17'
   start: '08:00'
   rooms:
@@ -17,6 +19,12 @@
           talk: '17_01_04'
         - slot: plenar-1-5
           talk: '17_01_05'
+        - slot: discus-1
+          talk: __discus
+        - slot: pause-1
+          talk: __pause
+        - slot: plenar-2
+          talk: '17_02'
     - room: meeting
       slots:
         - slot: open-A1

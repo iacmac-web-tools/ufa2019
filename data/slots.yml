@@ -39,3 +39,20 @@
   row: 
     start: 14
     end: 8
+- key: discus-1
+  start: 11:30
+  duration: 15
+  row: 
+    start: 14
+    end: 15
+- key: pause-1
+  start: 11:45
+  duration: 15
+  row: 
+    start: 15
+    end: 16
+- key: plenar-2
+  start: 12:00
+  row:
+    start: 16
+    end: 17

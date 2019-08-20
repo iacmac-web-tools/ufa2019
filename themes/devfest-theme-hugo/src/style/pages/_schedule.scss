@@ -91,8 +91,13 @@
     border-radius: var(--space-2);
 
     &.tag-open {
+
+      border: medium solid currentColor;
+      border-radius: var(--space-3);
+      background-color: var(--primary-txt);
+
       h4 {
-        font-size: 2em;
+        font-size: 1.5em;
       }
 
       a {
@@ -112,9 +117,13 @@
     &.tag-pause,
     &.tag-lunch,
     &.tag-party {
-      background-position: center center;
-      background-size: cover;
-      pointer-events: none;
+      border: medium solid currentColor;
+      border-radius: var(--space-3);
+      background-color: var(--primary-txt);
+
+      // background-position: center center;
+      // background-size: cover;
+      // pointer-events: none;
 
       &>a {
         box-shadow: none;
@@ -273,7 +282,7 @@
       &.tag-lunch,
       &.tag-party {
         h4 {
-          font-size: 2em;
+          font-size: 1.25em;
         }
       }
 

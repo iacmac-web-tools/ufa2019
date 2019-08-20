@@ -1,6 +1,6 @@
 ---
 key: __pause
-title: Pause
+title: Перерыв
 format: pause
 speakers: []
 tags:
