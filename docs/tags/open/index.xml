@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>open on Евразийский конгресс по антимикробной терапии и клинической микробиологии</title>
-    <link>https://sandbox-devfesttoulouse.firebaseapp.com/tags/open/</link>
+    <link>https://iacmac-web-tools.github.io/ufa2019/tags/open/</link>
     <description>Recent content in open on Евразийский конгресс по антимикробной терапии и клинической микробиологии</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     
-	<atom:link href="https://sandbox-devfesttoulouse.firebaseapp.com/tags/open/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://iacmac-web-tools.github.io/ufa2019/tags/open/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Открытие конгресса</title>
-      <link>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/__open/</link>
+      <link>https://iacmac-web-tools.github.io/ufa2019/sessions/__open/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/__open/</guid>
+      <guid>https://iacmac-web-tools.github.io/ufa2019/sessions/__open/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Пленарное заседание</title>
-      <link>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/17_01/</link>
+      <link>https://iacmac-web-tools.github.io/ufa2019/sessions/17_01/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/17_01/</guid>
+      <guid>https://iacmac-web-tools.github.io/ufa2019/sessions/17_01/</guid>
       <description>dfdfd</description>
     </item>
     
     <item>
       <title>Симпозиум «Внутрибольничные инфекции и инновационные технологии в микробиологии»</title>
-      <link>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/17_a1/</link>
+      <link>https://iacmac-web-tools.github.io/ufa2019/sessions/17_a1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/17_a1/</guid>
+      <guid>https://iacmac-web-tools.github.io/ufa2019/sessions/17_a1/</guid>
       <description>Открытие конгресса</description>
     </item>
     
