@@ -1,0 +1,25 @@
+- day: '2019-10-17'
+  start: '08:00'
+  rooms:
+    - room: concert
+      slots:
+        - slot: open-1
+          talk: '17_00'
+        - slot: plenar-1
+          talk: '17_01'
+        - slot: plenar-1-1
+          talk: '17_01_01'
+        - slot: plenar-1-2
+          talk: '17_01_02'
+        - slot: plenar-1-3
+          talk: '17_01_03'
+        - slot: plenar-1-4
+          talk: '17_01_04'
+        - slot: plenar-1-5
+          talk: '17_01_05'
+    - room: meeting
+      slots:
+        - slot: open-A1
+          talk: '17_A1'
+        - slot: plenar-A1
+          talk: '17_A1_01'
