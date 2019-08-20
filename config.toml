@@ -2,6 +2,7 @@ baseURL = "https://sandbox-devfesttoulouse.firebaseapp.com/"
 languageCode = "ru"
 defaultContentLanguage = "ru"
 title = "Евразийский конгресс по антимикробной терапии и клинической микробиологии"
+publishDir = "docs"
 
 # Theme
 theme = "devfest-theme-hugo"
@@ -12,7 +13,7 @@ enableEmoji = true
 enableRobotsTXT = true
 enableMissingTranslationPlaceholders = true
 
-googleAnalytics = "UA-37717223-8"
+googleAnalytics = ""
 
 [params]
     title = "Евразийский конгресс по антимикробной терапии и клинической микробиологии"
