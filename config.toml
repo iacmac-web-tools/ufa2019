@@ -1,4 +1,4 @@
-baseURL = "https://iacmac-web-tools.github.io/ufa2019/"
+baseURL = "https://iacmac-web-tools.github.io"
 languageCode = "ru"
 defaultContentLanguage = "ru"
 title = "Евразийский конгресс по антимикробной терапии и клинической микробиологии"
