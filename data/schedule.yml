@@ -25,9 +25,35 @@
           talk: __pause
         - slot: plenar-2
           talk: '17_02'
+        - slot: plenar-2-1
+          talk: '17_02_01'
+        - slot: plenar-2-2
+          talk: '17_02_02'
+        - slot: plenar-2-3
+          talk: '17_02_03'
+        - slot: plenar-2-4
+          talk: '17_02_04'
+        - slot: plenar-2-5
+          talk: '17_02_05'
+        - slot: discus-2
+          talk: __discus
+        - slot: pause-2
+          talk: __pause
+        - slot: plenar-3
+          talk: '17_03'
+        - slot: plenar-3-1
+          talk: '17_03_01'
+        - slot: plenar-3-2
+          talk: '17_03_02'
+        - slot: plenar-3-3
+          talk: '17_03_03'
+        - slot: plenar-3-4
+          talk: '17_03_04'
+        - slot: discus-3
+          talk: __discus
     - room: meeting
       slots:
-        - slot: open-A1
-          talk: '17_A1'
         - slot: plenar-A1
+          talk: '17_A1'
+        - slot: plenar-A1-01
           talk: '17_A1_01'
