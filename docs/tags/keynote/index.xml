@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>keynote on Devfest Toulouse 2019</title>
+    <link>https://sandbox-devfesttoulouse.firebaseapp.com/tags/keynote/</link>
+    <description>Recent content in keynote on Devfest Toulouse 2019</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    
+	<atom:link href="https://sandbox-devfesttoulouse.firebaseapp.com/tags/keynote/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Keynote d&#39;ouverture</title>
+      <link>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/keynote_open/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/keynote_open/</guid>
+      <description>Surprise!</description>
+    </item>
+    
+    <item>
+      <title>Keynote d&#39;ouverture (overflow)</title>
+      <link>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/keynote_open_overflow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/keynote_open_overflow/</guid>
+      <description>Surprise!</description>
+    </item>
+    
+    <item>
+      <title>Keynote de fermeture</title>
+      <link>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/keynote_close/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/keynote_close/</guid>
+      <description>Surprise!</description>
+    </item>
+    
+    <item>
+      <title>Keynote de fermeture (overflow)</title>
+      <link>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/keynote_close_overflow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/keynote_close_overflow/</guid>
+      <description>Surprise!</description>
+    </item>
+    
+    <item>
+      <title>Вакцинация: польза или риск?</title>
+      <link>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/17_r1_01_04/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/17_r1_01_04/</guid>
+      <description>Surprise!</description>
+    </item>
+    
+    <item>
+      <title>Внедрение новых антибиотиков в клиническую практику: как достичь консенсуса между потребностями и возможностями?</title>
+      <link>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/17_r1_01_03/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/17_r1_01_03/</guid>
+      <description>Surprise!</description>
+    </item>
+    
+    <item>
+      <title>Новые технологии быстрой детекции возбудителей инфекций на основе искусственного интеллекта</title>
+      <link>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/17_r1_01_02/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/17_r1_01_02/</guid>
+      <description>Surprise!</description>
+    </item>
+    
+    <item>
+      <title>Перспективные направления контроля антибиотикорезистентности</title>
+      <link>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/17_r1_01_01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/17_r1_01_01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Роль инфекции мочевых путей в развитии рецидивного нефролитиаза</title>
+      <link>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/17_r1_01_05/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/17_r1_01_05/</guid>
+      <description>Surprise!</description>
+    </item>
+    
+  </channel>
+</rss>

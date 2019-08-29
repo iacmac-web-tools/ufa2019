@@ -4,6 +4,7 @@ title = "Devfest Toulouse 2019"
 
 # Theme
 theme = "devfest-theme-hugo"
+publishDir="docs"
 
 # Params
 
