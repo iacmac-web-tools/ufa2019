@@ -50,6 +50,14 @@ section .tags {
   text-shadow: var(--extruded-light);
 }
 
+section .day-of-conference {
+  padding: var(--space-1);
+  border-radius: var(--space-2);
+  background: var(--darken-1);
+  border: thin solid var(--darken-2);
+  text-shadow: var(--extruded-light);
+}
+
 
 // .tag-open {
 //   background-image: url('/images/backgrounds/open.png');
