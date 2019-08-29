@@ -1,7 +1,7 @@
 {{ define "main" }}
 
 
-{{ . }}
+{{ .Content }}
 
 {{ $lang := $.Page.Language.Lang }}
 
@@ -20,7 +20,7 @@
 
 {{ $maxEnd := $.Scratch.Get "maxEnd" }}
 
-<section class="schedule">
+<section class="schedule{{ if $.Params.horizontal}} horizontal{{ end  }}">
 
 	{{ range $day := $.Site.Data.schedule }}
 	{{ $time := split $day.start ":" }}
@@ -56,12 +56,12 @@
 		</div>
 
 		{{ range $room.slots }}
-		{{ $sessionPage := $.Site.GetPage (path.Join "/sessions" .talk) }}
+		{{ $sessionPage := index (where $.Site.AllPages "Params.key" .talk ) 0}}
 		{{ $slot := index (where $.Site.Data.slots "key" .slot) 0 }}
 		{{ $time := split $slot.start ":" }}
 		{{ $hh := index $time 0 }}
 		{{ $mm := index $time 1 }}
-		<div class="session tag-{{ anchorize (delimit ($sessionPage.Params.tags | default (slice)) " " ) }}"
+		<div class="session format-{{$sessionPage.Params.format}} tag-{{ anchorize (delimit ($sessionPage.Params.tags | default (slice)) " " ) }}"
 		style="--room: {{ $index }}; --row-start: {{ $slot.row.start }}; --row-end: {{ $slot.row.end }};">
 
 		<span class="start">

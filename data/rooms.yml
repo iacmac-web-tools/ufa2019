@@ -7,14 +7,18 @@
 - key: office-hours
   label: Office-hours
 - key: room1
-  label: Grand amphi.
+  label: '#1'
 - key: room2
-  label: Grande salle
+  label: '#2'
 - key: room3
-  label: Salle du haut
+  label: '#3'
 - key: room4
-  label: Petite salle
-- key: concert
+  label: '#4'
+- key: room-1
   label: Концертный зал
-- key: meeting
+- key: room-2
   label: Зал заседаний
+- key: room-3
+  label: Выставочный зал
+- key: room-4
+  label: Пресс-центр

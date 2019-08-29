@@ -1,8 +1,6 @@
-baseURL = "https://iacmac-web-tools.github.io"
-languageCode = "ru"
-defaultContentLanguage = "ru"
-title = "Евразийский конгресс по антимикробной терапии и клинической микробиологии"
-publishDir = "docs"
+baseURL = "https://sandbox-devfesttoulouse.firebaseapp.com/"
+languageCode = "en"
+title = "Devfest Toulouse 2019"
 
 # Theme
 theme = "devfest-theme-hugo"
@@ -13,18 +11,18 @@ enableEmoji = true
 enableRobotsTXT = true
 enableMissingTranslationPlaceholders = true
 
-googleAnalytics = ""
+googleAnalytics = "UA-37717223-8"
 
 [params]
-    title = "Евразийский конгресс по антимикробной терапии и клинической микробиологии"
-    date = "2019-10-17"
-    description = "Евразийский конгресс по антимикробной терапии и клинической микробиологии состоится 17–18 октября 2019 г. в Уфе. Место проведения: Республика Башкортостан, г. Уфа, ул. Заки Валиди, 2; ГБУ РБ «Конгресс-холл Торатау»."
+    title = "DevFest Toulouse 2019"
+    date = "2019-10-03"
+    description = "The DevFest, or 'Developers Festival', is a technical conference for developers. It is aimed at students, professionals or simply curious technophiles."
     images = ["/images/social-share.jpg"]
-    email = "conference@antibiotic.ru"
-    keywords = ""
-    copyright = "МАКМАХ"
-    cfpUrl = ""
-    subscriptionUrl = ""
+    email = "contact@devfesttoulouse.fr"
+    keywords = "event, gdg, gde, devfest, google, programming, android, chrome, developers, web, cloud, androiddev"
+    copyright = "We :heart:️ chocolatines"
+    cfpUrl = "https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi"
+    subscriptionUrl = "http://eepurl.com/dps1j5"
     appleTouchIcon = "/apple-touch-icon.png"
     favicon32 = "/favicon-32x32.png"
     favicon16 = "/favicon-16x16.png"
@@ -46,9 +44,16 @@ googleAnalytics = ""
 #    external = true
 
 [languages]
-[languages.ru]
+[languages.en]
     weight = 1
-    languageName = "ru"
+    languageName = "gb"
+
+[languages.fr]
+    weight = 2
+    languageName = "fr"
+
+[languages.fr.params]
+    description = "Le DevFest, ou 'Developers Festival', est une conférence technique destinée aux développeurs. Elle s'adresse aussi bien aux étudiants, aux professionnels ou tout simplement aux curieux technophiles."
 
 [taxonomies]
   tag = "tags"

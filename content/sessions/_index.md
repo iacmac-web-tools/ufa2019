@@ -1,5 +1,5 @@
 ---
-title: Программа
+title: Sessions
 menu:
   main:
     weight: 30

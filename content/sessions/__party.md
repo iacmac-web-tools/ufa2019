@@ -1,10 +1,10 @@
 ---
 key: __party
-title: Party time...
+title: Дискуссия
 format: party
-speakers: []
 tags:
   - party
+speakers: []
 draft: false
 ---
 🎉 Party time

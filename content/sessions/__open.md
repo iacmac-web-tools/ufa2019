@@ -1,9 +1,10 @@
 ---
 key: __open
-title: 'Открытие конгресса'
+title: 'Acceuil, Thé, Café et Chocolatines'
 format: open
-speakers: []
 tags:
   - open
+speakers: []
 draft: false
 ---
+Acceuil, Thé, Café et Chocolatines

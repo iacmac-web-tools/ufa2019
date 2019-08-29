@@ -1,5 +1,5 @@
 ---
-title: Главная
+title: Home
 
 menu:
   main:
@@ -10,38 +10,37 @@ menu:
 
 {{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="DevFest Toulouse 2019" %}}
 
-## 17–18 октября 2019 г.,
-### Республика Башкортостан, г. Уфа
-### ул. Заки Валиди, 2
-### ГБУ РБ «Конгресс-холл Торатау»
+## October 3rd, 2019
+### Pierre Baudis congress center
 
 <!-- <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://drive.google.com/file/d/1td_9Cr1b2JZvv0bCpOCJNDsEWgVgEp2Y/view?usp=sharing" target="_blank">Become a sponsor</a> -->
 
-
-<a class="btn primary btn-lg" href="/sessions">
-    <svg class="icon icon-cfp"><use xlink:href="#cfp"></use></svg>Программа конференции
+<!--
+<a class="btn primary btn-lg" href="https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi">
+    <svg class="icon icon-cfp"><use xlink:href="#cfp"></use></svg>Submit a presentation
 </a>
-
+-->
 
 {{% /jumbo %}}
 
 
 
-{{% home-info what="Участников:900,Дня:2,Докладов:46,Параллельные секции:3" class="primary" %}}
+{{% home-info what="Participants:900,Day:1,Sessions:36,Parallel Tracks:4" class="primary" %}}
+## What is DevFest Toulouse?
 
-В рамках научной программы будут представлены доклады ведущих отечественных и иностранных специалистов, посвящённые современным проблемам и возможностям лечения, диагностики и профилактики внебольничных и нозокомиальных инфекций у пациентов различного профиля, фармакоэпидемиологии и фармакоэкономике, обзору современных клинических рекомендаций.
-
+The DevFest, or 'Developers Festival', is a technical conference for developers. 
+It is aimed at students, professionals or simply curious technophiles.
 {{% /home-info %}}
 
 
-<!-- {{< youtube-section link="ZQGRMJzi6yU" title="Watch 2018 best moments" class="" >}} -->
+{{< youtube-section link="ZQGRMJzi6yU" title="Watch 2018 best moments" class="" >}}
 
 <!-- ... -->
 
 
 
 {{% home-speakers %}}
-## Докладчики
+## Featured Speakers
 
 <!--
 {{< button-link label="Submit a presentation"
@@ -49,7 +48,7 @@ menu:
                 icon="cfp" >}}
 --> 
 
-{{< button-link label="Показать всех"
+{{< button-link label="See all speakers"
                 url="./speakers"
                 icon="right" >}}
 
@@ -58,28 +57,26 @@ menu:
 
 <!-- ... -->
 
-<!-- {{% home-subscribe  class="primary" %}}
+{{% home-subscribe  class="primary" %}}
 
 ## Get notified about the important conference updates
 
-{{% /home-subscribe %}} -->
+{{% /home-subscribe %}}
 
 <!-- ... -->
 
 {{% home-tickets %}}
-<!-- # Участие бесплатно <a class="btn primary" href="https://www.billetweb.fr/devfest-toulouse-2019" target="_blank"><svg class="icon icon-cfp"><use xlink:href="#ticket"></use></svg>Зарегистрироваться</a> -->
-
-# Участие в конференции является беплатным
+# Tickets <a class="btn primary" href="https://www.billetweb.fr/devfest-toulouse-2019" target="_blank"><svg class="icon icon-cfp"><use xlink:href="#ticket"></use></svg>Ticketing</a>
 
 <ul>
-<li>{{< ticket name=""
-           starts=""
-           ends=""
-           price=""
-           info=""
-           soldOut=""
-           url="http://www.iacmac.ru/iacmac/ru/confer/2019/1017/register.php" >}}</li>
-<!-- <li>{{< ticket name="Early Birds"
+<li>{{< ticket name="Blind Birds"
+           starts="2019-03-25"
+           ends="2019-04-25"
+           price="40 €"
+           info="50 first places"
+           soldOut="true"
+           url="https://www.billetweb.fr/devfest-toulouse-2019" >}}</li>
+<li>{{< ticket name="Early Birds"
            starts="2019-04-25"
            ends="2019-06-22"
            price="60 €"
@@ -92,10 +89,10 @@ menu:
            price="80 €"
            info="300 last places"
            soldOut="true"
-           url="https://www.billetweb.fr/devfest-toulouse-2019" >}}</li> -->
+           url="https://www.billetweb.fr/devfest-toulouse-2019" >}}</li>
 </ul>
 
-\* После регистрации вам достаточно будет назвать свое ФИО на стойке регистрации.
+\* Your ticket gives you access to all conferences, coffee breaks, and lunch. Accommodation is NOT included in this price.
 
 {{% /home-tickets %}}
 
@@ -104,9 +101,9 @@ menu:
 
 {{% home-location
     image="/images/map.jpg"
-    address="Уфа, ул. Заки Валиди, 2, ГБУ РБ «Конгресс-холл Торатау»"
-    latitude="54.721129"
-    longitude="55.928565" %}}
+    address="11 Espl. Compans Caffarelli, 31000 Toulouse"
+    latitude="43.6110956"
+    longitude="1.4332799" %}}
 
 ## The venue
 
@@ -133,9 +130,7 @@ in the immediate vicinity of the centre of Toulouse and in a green environment.
 
 <!-- ... --> 
 
+{{% partners categories="platinium,gold,startup,soutien,communautes" %}}
+## Partners <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://drive.google.com/file/d/1td_9Cr1b2JZvv0bCpOCJNDsEWgVgEp2Y/view?usp=sharing" target="_blank">Become a sponsor</a>
 
-
-<!-- ## Спонсоры <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://drive.google.com/file/d/1td_9Cr1b2JZvv0bCpOCJNDsEWgVgEp2Y/view?usp=sharing" target="_blank">Become a sponsor</a> -->
-
-
-
+{{% /partners %}}

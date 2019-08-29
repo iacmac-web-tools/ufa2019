@@ -1,10 +1,15 @@
 ---
 key: kozlov_rs
-id: kozlov_rs
+name: Козлов Роман Сергеевич
 feature: false
-name: Р.С. Козлов 
-company: 
-city: Россия
-photoURL: /images/speakers/guillaume_smet.jpg
-
+company: Airbus
+city: 'Россия'
+photoURL: /images/speakers/adrien_anceau.jpg
+socials:
+  - icon: twitter
+    link: 'https://twitter.com/aaadrieeen'
+    name: aaadrieeen
+  - icon: github
+    link: 'https://github.com/aanc'
+    name: aanc
 ---

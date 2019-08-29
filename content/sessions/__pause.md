@@ -2,9 +2,9 @@
 key: __pause
 title: Перерыв
 format: pause
-speakers: []
 tags:
   - pause
+speakers: []
 draft: false
 ---
 Pause

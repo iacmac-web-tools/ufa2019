@@ -1,16 +1,16 @@
 id: HJRThubF4uYPkb7jSUxi
-name: Евразийский конгресс по антимикробной терапии и клинической микробиологии
+name: DevFest Toulouse 2019
 address:
-  formattedAddress: 'Республика Башкортостан, г. Уфа, ул. Заки Валиди, 2; ГБУ РБ «Конгресс-холл Торатау»'
+  formattedAddress: '11 Espl. Compans Caffarelli, 31000 Toulouse, France'
   locality:
-    long_name: Уфа
-    short_name: Уфа
+    short_name: Toulouse
+    long_name: Toulouse
   country:
-    short_name: RU
-    long_name: Россия
+    short_name: FR
+    long_name: France
   latLng:
-    lat: 54.721129
-    lng: 55.928565
+    lat: 43.6115538
+    lng: 1.4345827
 dates:
-  end: '2019-10-17T10:00:00.000Z'
-  start: '2019-10-17T10:00:00.000Z'
+  start: '2019-10-03T10:00:00.000Z'
+  end: '2019-10-03T10:00:00.000Z'

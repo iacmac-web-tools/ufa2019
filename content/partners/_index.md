@@ -1,10 +1,10 @@
 ---
-title: Спонсоры
-# menu:
-#   main:
-#     weight: 20
+title: Partners
+menu:
+  main:
+    weight: 20
 
-draft: true
+draft: false
 ---
 
 {{% hero %}}
