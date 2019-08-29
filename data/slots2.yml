@@ -15,125 +15,125 @@
   duration: 30
   row:
     start: 3
-    end: 6
+    end: 5
 - key: 17_R1_01_02
   start: '10:00'
   duration: 30
   row:
-    start: 6
-    end: 9
+    start: 5
+    end: 7
 - key: 17_R1_01_03
   start: '10:30'
   duration: 30
   row:
-    start: 9
-    end: 12
+    start: 7
+    end: 9
 - key: 17_R1_01_04
   start: '11:00'
   duration: 30
   row:
-    start: 12
-    end: 15
+    start: 9
+    end: 11
 - key: 17_R1_01_05
   start: '11:30'
   duration: 30
   row:
-    start: 15
-    end: 18
+    start: 11
+    end: 13
 - key: discussion-1
   start: '12:00'
   duration: 15
   row:
-    start: 18
-    end: 19
+    start: 13
+    end: 14
 - key: pause-1
   start: '12:15'
   duration: 15
   row:
-    start: 19
-    end: 20
+    start: 14
+    end: 15
 - key: 17_R1_02
   duration: 0
   row:
-    start: 20
-    end: 21
+    start: 15
+    end: 16
 - key: 17_R1_02_01
   start: '12:30'
   duration: 30
   row:
-    start: 21
-    end: 23
+    start: 16
+    end: 18
 - key: 17_R1_02_02
   start: '13:00'
   duration: 30
   row:
-    start: 23
-    end: 25
+    start: 18
+    end: 20
 - key: 17_R1_02_03
   start: '13:30'
   duration: 30
   row:
-    start: 25
-    end: 27
+    start: 20
+    end: 22
 - key: 17_R1_02_04
   start: '14:00'
   duration: 30
   row:
-    start: 27
-    end: 29
+    start: 22
+    end: 24
 - key: 17_R1_02_05
   start: '14:30'
   duration: 30
   row:
-    start: 29
-    end: 31
+    start: 24
+    end: 26
 - key: discussion-2
   start: '15:00'
   duration: 15
   row:
-    start: 31
-    end: 32
+    start: 26
+    end: 27
 - key: pause-2
   start: '15:15'
   duration: 15
   row:
-    start: 32
-    end: 33
+    start: 27
+    end: 28
 - key: 17_R1_03
   duration: 0
   row:
-    start: 33
-    end: 34
+    start: 28
+    end: 29
 - key: 17_R1_03_01
   start: '15:30'
   duration: 30
   row:
-    start: 34
-    end: 37
+    start: 29
+    end: 32
 - key: 17_R1_03_02
   start: '16:00'
   duration: 30
   row:
-    start: 37
-    end: 40
+    start: 32
+    end: 35
 - key: 17_R1_03_03
   start: '16:30'
   duration: 30
   row:
-    start: 40
-    end: 43
+    start: 35
+    end: 38
 - key: 17_R1_03_04
   start: '17:00'
   duration: 30
   row:
-    start: 43
-    end: 46
+    start: 38
+    end: 41
 - key: discussion-3
   start: '17:30'
   duration: 15
   row:
-    start: 46
-    end: 47
+    start: 41
+    end: 42
 
 # ROOM 2
 
@@ -141,44 +141,44 @@
   start: '15:30'
   duration: 0
   row:
-    start: 33
-    end: 34
+    start: 28
+    end: 29
 - key: 17_R2_01_01
   start: '15:30'
   duration: 30
   row:
-    start: 34
-    end: 37
+    start: 29
+    end: 32
 - key: 17_R2_01_02
   start: '16:00'
   duration: 20
   row:
-    start: 37
-    end: 39
+    start: 32
+    end: 34
 - key: 17_R2_01_03
   start: '16:20'
   duration: 30
   row:
-    start: 39
-    end: 42
+    start: 34
+    end: 37
 - key: 17_R2_01_04
   start: '16:50'
   duration: 20
   row:
-    start: 42
-    end: 44
+    start: 37
+    end: 39
 - key: 17_R2_01_05
   start: '17:10'
   duration: 20
   row:
-    start: 44
-    end: 46
+    start: 39
+    end: 41
 - key: discussion-4
   start: '17:30'
   duration: 15
   row:
-    start: 46
-    end: 47
+    start: 41
+    end: 42
 
 # - key: slot-1
 #   start: '10:10'

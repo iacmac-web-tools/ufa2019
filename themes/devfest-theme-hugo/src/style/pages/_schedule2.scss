@@ -99,6 +99,9 @@
     margin: 1rem 1rem 1rem 5ch;
     border-radius: var(--space-2);
 
+    &.tag-open {
+      border: solid 2px green;
+    }
     &.tag-open, &.tag-pause, &.tag-lunch, &.tag-party {
       background-position: center center;
       background-size: cover;

@@ -1,7 +1,7 @@
 - day: '2019-10-03'
   start: '08:00'
   rooms:
-    - room: room1
+    - room: room-1
       slots:
         - slot: 17_R1_open
           talk: 17_R1_open
@@ -49,7 +49,7 @@
           talk: 17_R1_03_04
         - slot: discussion-3
           talk: __party
-    - room: room2
+    - room: room-2
       slots:
         - slot: 17_R2_01
           talk: 17_R2_01
