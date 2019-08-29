@@ -132,8 +132,8 @@
   start: '17:30'
   duration: 15
   row:
-    start: 42
-    end: 43
+    start: 46
+    end: 47
 
 # ROOM 2
 
@@ -173,7 +173,12 @@
   row:
     start: 44
     end: 46
-
+- key: discussion-4
+  start: '17:30'
+  duration: 15
+  row:
+    start: 46
+    end: 47
 
 # - key: slot-1
 #   start: '10:10'

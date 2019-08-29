@@ -63,6 +63,8 @@
           talk: 17_R2_01_04
         - slot: 17_R2_01_05
           talk: 17_R2_01_05
+        - slot: discussion-4
+          talk: __party
     #     - slot: slot-1
     #       talk: a_kotlin_multiplatform_evolution
     #     - slot: pause-2
