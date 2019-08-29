@@ -121,6 +121,10 @@
       .tags {
         display: none;
       }
+      .subtitle { 
+        display: block;
+        font-size: 0.75em;
+      }
     }
 
     .slot {
@@ -266,7 +270,7 @@
 
       &.tag-open, &.tag-lunch, &.tag-party {
         h4 {
-          font-size: 1.5em;
+          font-size: 1em;
         }
       }
 

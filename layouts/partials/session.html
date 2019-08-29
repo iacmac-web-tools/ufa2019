@@ -7,13 +7,19 @@
 
 <hr>
 
+
+
 <div class="info">
 	{{ if .Params.time }}
 		<div class="tags">
 			<span>{{ .Params.time  }}</span>
 		</div>
 		{{ end }}
-
+		{{ if .Params.subtitle }}
+		<div class="subtitle">
+			<span>{{ .Params.subtitle }}</span>
+		</div>
+		{{ end }}
 	<div class="complexity">{{ .Params.level }}</div>
 	<div class="type type-{{ anchorize .Params.format }}">{{ .Params.format }}</div>
 </div>

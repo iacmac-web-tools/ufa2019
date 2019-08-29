@@ -12,7 +12,11 @@
 			<svg><use xlink:href="#level-{{ .Params.level }}"></use></svg>
 		</div>
 		{{ end }}
-
+		{{ if .Params.subtitle }}
+		<div class="subtitle">
+			<span>{{ .Params.subtitle }}</span>
+		</div>
+		{{ end }}
 		{{ if .Params.time }}
 		<div class="tags">
 			<span>{{ .Params.time  }}</span>

@@ -1,5 +1,5 @@
 baseURL = "https://sandbox-devfesttoulouse.firebaseapp.com/"
-languageCode = "en"
+languageCode = "ru"
 title = "Devfest Toulouse 2019"
 
 # Theme
@@ -11,7 +11,7 @@ enableEmoji = true
 enableRobotsTXT = true
 enableMissingTranslationPlaceholders = true
 
-googleAnalytics = "UA-37717223-8"
+googleAnalytics = ""
 
 [params]
     title = "DevFest Toulouse 2019"

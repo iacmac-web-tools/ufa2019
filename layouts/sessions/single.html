@@ -14,7 +14,11 @@
 	</header>
 
 	<div class="info">
-
+		{{ if .Params.subtitle }}
+		<div class="subtitle">
+			<span>{{ .Params.subtitle }}</span>
+		</div>
+		{{ end }}
 		<div class="detail">
 			<ul class="speakers">
 				{{ range where .Site.RegularPages "Params.key" "in" .Params.speakers }}
