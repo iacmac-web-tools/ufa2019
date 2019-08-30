@@ -1,5 +1,5 @@
 ---
-title: Schedule
+title: Расписание
 menu:
   main:
     weight: 10
