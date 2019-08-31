@@ -1,5 +1,5 @@
 ---
-title: FAQs
+title: Вопросы
 menu:
   main:
     weight: 80

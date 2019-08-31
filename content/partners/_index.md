@@ -1,8 +1,8 @@
 ---
-title: Partners
+title: Партнёры
 menu:
   main:
-    weight: 20
+    weight: 59
 
 draft: false
 ---

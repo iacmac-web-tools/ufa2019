@@ -1,5 +1,5 @@
 ---
-title: Speakers
+title: Докладчики
 menu:
   main:
     weight: 40

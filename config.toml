@@ -1,6 +1,5 @@
 baseURL = "https://sandbox-devfesttoulouse.firebaseapp.com/"
-languageCode = "ru"
-defaultContentLanguage = "ru"
+languageCode = "en"
 title = "Devfest Toulouse 2019"
 
 # Theme
@@ -46,9 +45,16 @@ googleAnalytics = ""
 #    external = true
 
 [languages]
-[languages.ru]
+[languages.en]
     weight = 1
-    languageName = "ru"
+    languageName = "gb"
+
+[languages.fr]
+    weight = 2
+    languageName = "fr"
+
+[languages.fr.params]
+    description = "Le DevFest, ou 'Developers Festival', est une conférence technique destinée aux développeurs. Elle s'adresse aussi bien aux étudiants, aux professionnels ou tout simplement aux curieux technophiles."
 
 [taxonomies]
   tag = "tags"
@@ -62,7 +68,7 @@ googleAnalytics = ""
     respectDoNotTrack = false
     useSessionStorage = false
   [privacy.instagram]
-    disable = false
+    disable = true
     simple = false
   [privacy.twitter]
     disable = false
