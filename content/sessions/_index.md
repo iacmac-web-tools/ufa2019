@@ -1,5 +1,5 @@
 ---
-title: Sessions
+title: Доклады
 menu:
   main:
     weight: 30
