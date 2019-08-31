@@ -1,11 +1,12 @@
 {{ define "main" }}
+{{ $lang := $.Page.Language.Lang }}
 <section class="talk">
 
 	<header class="tag-{{ anchorize (delimit .Params.tags "" ) }}">
 
 	{{ with .Params.day }}
 	<div class="tags">
-		<span>{{ .  }}</span>
+		<span>{{- partial "date-long.html" (dict "time" . "lang" $lang) }}</span>
 	</div>
 	{{ end }}
 

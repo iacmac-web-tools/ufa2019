@@ -1,4 +1,5 @@
 {{ define "main" }}
+{{ $lang := $.Page.Language.Lang }}
 
 <div class="hero">
 
@@ -30,7 +31,7 @@
 				<a href="{{ .Permalink }}" class="talk tag-{{ anchorize (delimit .Params.tags "" ) }}">
 				<div class="tags">
 					{{ with .Params.day }}
-						<span>{{ . }}</span>
+					<span>{{- partial "date-long.html" (dict "time" . "lang" $lang) }}</span>
 					{{ end }}
 					{{ with .Params.time }}
 						<span>{{ . }}</span>

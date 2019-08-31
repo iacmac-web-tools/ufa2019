@@ -1,3 +1,4 @@
+{{ $lang := $.Page.Language.Lang }}
 <a href="{{ .URL }}">
 
 <h2>
@@ -10,9 +11,9 @@
 
 
 <div class="info">
-	{{ if .Params.day }}
+	{{ with .Params.day }}
 		<div class="day-of-conference">
-			<span>{{ .Params.day  }}</span>
+			<span>{{- partial "date-long.html" (dict "time" . "lang" $lang) }}</span>
 		</div>
 	{{ end }}
 
