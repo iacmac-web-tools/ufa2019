@@ -10,8 +10,9 @@ menu:
 
 {{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="DevFest Toulouse 2019" %}}
 
-## October 3rd, 2019
-### Pierre Baudis congress center
+# Евразийский конгресс по антимикробной терапии и клинической микробиологии
+## 17–18 октября 2019 г.
+### Республика Башкортостан, г. Уфа, ул. Заки Валиди, 2; ГБУ РБ «Конгресс-холл Торатау»
 
 <!-- <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://drive.google.com/file/d/1td_9Cr1b2JZvv0bCpOCJNDsEWgVgEp2Y/view?usp=sharing" target="_blank">Become a sponsor</a> -->
 
@@ -26,14 +27,14 @@ menu:
 
 
 {{% home-info what="Participants:900,Day:1,Sessions:36,Parallel Tracks:4" class="primary" %}}
-## What is DevFest Toulouse?
+## Что такое МАКМАХ?
 
 The DevFest, or 'Developers Festival', is a technical conference for developers. 
 It is aimed at students, professionals or simply curious technophiles.
 {{% /home-info %}}
 
 
-{{< youtube-section link="ZQGRMJzi6yU" title="Watch 2018 best moments" class="" >}}
+{{< youtube-section link="OH_Ne4Bm8I0" title="XXI конгресс МАКМАХ 22-24 мая 2019" class="" >}}
 
 <!-- ... -->
 
@@ -65,7 +66,7 @@ It is aimed at students, professionals or simply curious technophiles.
 
 <!-- ... -->
 
-{{% home-tickets %}}
+{{% home-tickets class="primary" %}}
 # Tickets <a class="btn primary" href="https://www.billetweb.fr/devfest-toulouse-2019" target="_blank"><svg class="icon icon-cfp"><use xlink:href="#ticket"></use></svg>Ticketing</a>
 
 <ul>

@@ -16,15 +16,15 @@ enableMissingTranslationPlaceholders = true
 googleAnalytics = ""
 
 [params]
-    title = "DevFest Toulouse 2019"
+    title = "МАКМАХ | Уфа 2019"
     date = "2019-10-03"
     description = "The DevFest, or 'Developers Festival', is a technical conference for developers. It is aimed at students, professionals or simply curious technophiles."
     images = ["/images/social-share.jpg"]
     email = "conference@antibiotic.ru"
     keywords = "event, gdg, gde, devfest, google, programming, android, chrome, developers, web, cloud, androiddev"
-    copyright = "We :heart:️ chocolatines"
-    cfpUrl = "https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi"
-    subscriptionUrl = "http://eepurl.com/dps1j5"
+    # copyright = "We :heart:️ chocolatines"
+    # cfpUrl = "https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi"
+    # subscriptionUrl = "http://eepurl.com/dps1j5"
     appleTouchIcon = "/apple-touch-icon.png"
     favicon32 = "/favicon-32x32.png"
     favicon16 = "/favicon-16x16.png"
@@ -49,13 +49,6 @@ googleAnalytics = ""
 [languages.ru]
     weight = 1
     languageName = "ru"
-
-[languages.fr]
-    weight = 2
-    languageName = "fr"
-
-[languages.fr.params]
-    description = "Le DevFest, ou 'Developers Festival', est une conférence technique destinée aux développeurs. Elle s'adresse aussi bien aux étudiants, aux professionnels ou tout simplement aux curieux technophiles."
 
 [taxonomies]
   tag = "tags"

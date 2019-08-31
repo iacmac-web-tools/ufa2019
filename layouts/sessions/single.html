@@ -3,15 +3,22 @@
 
 	<header class="tag-{{ anchorize (delimit .Params.tags "" ) }}">
 
-	{{ if .Params.time }}
+	{{ with .Params.day }}
 	<div class="tags">
-		<span>{{ .Params.time  }}</span>
+		<span>{{ .  }}</span>
 	</div>
 	{{ end }}
 
-	<h1 class="text">{{ .Title }}</h1>
+	{{ with .Params.time }}
+	<div class="tags">
+		<span>{{ .  }}</span>
+	</div>
+	{{ end }}
+
 	<span class="language {{ anchorize .Params.language }}"></span>
 	</header>
+
+	<h1 class="text">{{ .Title }}</h1>
 
 	<div class="info">
 		{{ if .Params.subtitle }}
