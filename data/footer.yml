@@ -3,16 +3,22 @@ share:
     url: https://www.facebook.com/sharer.php?u=
   - name: twitter
     url: https://twitter.com/intent/tweet?text=
+  - name: vk
+    url: "http://vkontakte.ru/share.php?url={url}&title={title}"
 
 follow:
+  - name: vk
+    url: https://vk.com/iacmac
   - name: facebook
-    url: https://www.facebook.com/GDGToulouse/
+    url: https://www.facebook.com/iacmac/
   - name: twitter
-    url: https://twitter.com/devfesttoulouse
-  - name: linkedin
-    url: https://www.linkedin.com/company/devfesttoulouse/
+    url: https://twitter.com/IACMAC1997
+  - name: instagram
+    url: https://www.instagram.com/iacmac1997/
   - name: youtube
-    url: https://www.youtube.com/channel/UCx83f-KzDd3o1QK2AdJIftg
+    url: https://www.youtube.com/channel/UCkQnQDWeTvuvXFDOdZXmr-Q
+  - name: telegram
+    url: https://t.me/iacmac
 
 content:
   - title: footer_about

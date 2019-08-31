@@ -11,8 +11,8 @@ draft: false
 
 If you wish to become a sponsor, consult our sponsorship file and contact us at
 
-{{< button-link label="contact@devfesttoulouse.fr"
-                url="mailto:contact@devfesttoulouse.fr"
+{{< button-link label="partnership@antibiotic.ru"
+                url="mailto:partnership@antibiotic.ru"
                 icon="email" >}} 
 
 
