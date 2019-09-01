@@ -83,3 +83,5 @@ other = "Подписаться"
 other = "Поделиться в Вконтакте"
 [vk_share_label]
 other = "Share on Twitter"
+[open_slides]
+other = "Презентация"

@@ -20,7 +20,7 @@
 	</header>
 
 	<h1 class="text">{{ .Title }}</h1>
-
+	<a class="btn primary btn-md" style="margin-top: 1em;" href="/ics/{{ .Params.key }}.ics">Добавить в календарь</a>
 	<div class="info">
 		{{ if .Params.subtitle }}
 		<div class="subtitle">
@@ -57,10 +57,10 @@
 		{{ end }}
 
 		{{ if .Params.presentation }}
-		<a class="social-slides"
+		<a class="btn primary btn-lg" style="margin-top: 1em;"
 		   href="{{ .Params.presentation }}"
 		   rel="noreferrer"
-		   target="_blank">Voir les slides</a>
+		   target="_blank">{{ i18n "open_slides" }}</a>
 		{{ end }}
 
 	</div>

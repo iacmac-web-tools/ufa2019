@@ -6,4 +6,6 @@ tags:
   - open
 speakers: []
 draft: false
+videoId: null
+presentation: null
 ---

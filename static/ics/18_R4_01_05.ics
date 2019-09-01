@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:iacmac.ru
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+TZOFFSETTO:+0300
+TZOFFSETFROM:+0300
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Moscow:20191018T161000
+DTEND;TZID=Europe/Moscow:20191018T163500
+SUMMARY:Редкие и атипичные возбудители при заболеваниях органов дыхания: современные возможности лабораторной диагностики
+LOCATION:Пресс-центр
+DESCRIPTION:Докладчик: Козлов Роман Сергеевич (Россия, Смоленск)
+PRIORITY:3
+END:VEVENT
+END:VCALENDAR
