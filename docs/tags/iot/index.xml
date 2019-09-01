@@ -16,17 +16,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/17_r1_02_04/</guid>
-      <description>Surprise!</description>
-    </item>
-    
-    <item>
-      <title>Premiers pas avec un microcontrôleur et Google Cloud IoT Core</title>
-      <link>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/premiers_pas_avec_un_microcontroleur_et_google_cloud_iot_core/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/premiers_pas_avec_un_microcontroleur_et_google_cloud_iot_core/</guid>
-      <description>De nombreux services en ligne existent pour gérer en toute sécurité des appareils IoT à grande échelle : &amp;ldquo;Azure IoT&amp;rdquo; de Microsoft et &amp;ldquo;AWS IoT&amp;rdquo; d&amp;rsquo;Amazon sont parmi les plus connus.
-Google propose également sa solution : &amp;ldquo;Cloud IoT&amp;rdquo; basée sur la plate-forme Google Cloud (GCP). Dans ce talk, nous partirons d&amp;rsquo;un microcontrôleur neuf ultra connu et abordable, et notre but sera tout d&amp;rsquo;abord de découvrir comment écrire du code pour ce composant nous permettant de récupérer des informations sur notre environnement.</description>
+      <description></description>
     </item>
     
     <item>
@@ -35,7 +25,7 @@ Google propose également sa solution : &amp;ldquo;Cloud IoT&amp;rdquo; basée s
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/17_r1_02_02/</guid>
-      <description>Surprise!</description>
+      <description></description>
     </item>
     
     <item>
@@ -44,7 +34,7 @@ Google propose également sa solution : &amp;ldquo;Cloud IoT&amp;rdquo; basée s
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/17_r1_02_03/</guid>
-      <description>Surprise!</description>
+      <description></description>
     </item>
     
     <item>
@@ -53,7 +43,7 @@ Google propose également sa solution : &amp;ldquo;Cloud IoT&amp;rdquo; basée s
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/17_r1_02_05/</guid>
-      <description>Surprise!</description>
+      <description></description>
     </item>
     
     <item>
@@ -62,7 +52,7 @@ Google propose également sa solution : &amp;ldquo;Cloud IoT&amp;rdquo; basée s
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/17_r1_02_01/</guid>
-      <description>Surprise!</description>
+      <description></description>
     </item>
     
   </channel>

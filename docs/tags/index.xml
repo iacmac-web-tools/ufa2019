@@ -11,20 +11,29 @@
     
     
     <item>
-      <title>big_data___ml___ai</title>
-      <link>https://sandbox-devfesttoulouse.firebaseapp.com/tags/big_data___ml___ai/</link>
+      <title>big-data-ml-ai</title>
+      <link>https://sandbox-devfesttoulouse.firebaseapp.com/tags/big-data-ml-ai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sandbox-devfesttoulouse.firebaseapp.com/tags/big_data___ml___ai/</guid>
+      <guid>https://sandbox-devfesttoulouse.firebaseapp.com/tags/big-data-ml-ai/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>cloud___infra</title>
-      <link>https://sandbox-devfesttoulouse.firebaseapp.com/tags/cloud___infra/</link>
+      <title>cloud-infra</title>
+      <link>https://sandbox-devfesttoulouse.firebaseapp.com/tags/cloud-infra/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sandbox-devfesttoulouse.firebaseapp.com/tags/cloud___infra/</guid>
+      <guid>https://sandbox-devfesttoulouse.firebaseapp.com/tags/cloud-infra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>general</title>
+      <link>https://sandbox-devfesttoulouse.firebaseapp.com/tags/general/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sandbox-devfesttoulouse.firebaseapp.com/tags/general/</guid>
       <description></description>
     </item>
     
@@ -65,29 +74,20 @@
     </item>
     
     <item>
-      <title>method___tools</title>
-      <link>https://sandbox-devfesttoulouse.firebaseapp.com/tags/method___tools/</link>
+      <title>method-tools</title>
+      <link>https://sandbox-devfesttoulouse.firebaseapp.com/tags/method-tools/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sandbox-devfesttoulouse.firebaseapp.com/tags/method___tools/</guid>
+      <guid>https://sandbox-devfesttoulouse.firebaseapp.com/tags/method-tools/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>native_mobile_apps</title>
-      <link>https://sandbox-devfesttoulouse.firebaseapp.com/tags/native_mobile_apps/</link>
+      <title>native-mobile-apps</title>
+      <link>https://sandbox-devfesttoulouse.firebaseapp.com/tags/native-mobile-apps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sandbox-devfesttoulouse.firebaseapp.com/tags/native_mobile_apps/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>office-hours</title>
-      <link>https://sandbox-devfesttoulouse.firebaseapp.com/tags/office-hours/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://sandbox-devfesttoulouse.firebaseapp.com/tags/office-hours/</guid>
+      <guid>https://sandbox-devfesttoulouse.firebaseapp.com/tags/native-mobile-apps/</guid>
       <description></description>
     </item>
     

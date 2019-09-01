@@ -11,32 +11,48 @@
     
     
     <item>
-      <title>A Kotlin multiplatform evolution</title>
-      <link>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/a_kotlin_multiplatform_evolution/</link>
+      <title>Адаптация стратегии контроля антимикробной терапии (СКАТ) к условиям многопрофильного стационара: прошлое, настоящее, перспективы</title>
+      <link>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/18_r1_01_04/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/a_kotlin_multiplatform_evolution/</guid>
-      <description>Have you heard of the code-sharing feature in Kotlin, accompanied with &amp;ldquo;Write once, run everywhere&amp;rdquo; slogan? Among its users not only libraries and frameworks authors; there are some projects which have already adopted multiplatform for production. Their applications, written in Kotlin for both iOS and Android, are published in stores. With this talk, you&amp;rsquo;ll get a brief overview of the evolution of multiplatform technology in Kotlin, concerning the tasks it&amp;rsquo;s evolved to solve.</description>
+      <guid>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/18_r1_01_04/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Rust as a High-Level Langage</title>
-      <link>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/rust_as_a_high_level_langage/</link>
+      <title>Ведение пациентов с инфекциями протезированных суставов: алгоритмы, которые действительно работают</title>
+      <link>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/18_r1_01_03/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/rust_as_a_high_level_langage/</guid>
-      <description>The singe most important feature of Rust is memory safety. Writing code with performance of C++, at a typical development cost, and with guaranteed absence of certain classes of memory safety related vulnerabilities is something that was not possible before.
-However, all popular managed languages with garbage collection take memory safety for granted, so this aspect of Rust doesn&amp;rsquo;t bring anything new to the table, if you already use Java or Go.</description>
+      <guid>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/18_r1_01_03/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>The Freedom of Static Typing</title>
-      <link>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/the_freedom_of_static_typing/</link>
+      <title>Генетический «штих-код» патогенов и его потенциальное применение</title>
+      <link>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/18_r1_01_05/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/the_freedom_of_static_typing/</guid>
-      <description>It&amp;rsquo;s a common idea: Dynamic typing gives you freedom to do whatever you want, but then you suffer mistakes and runtime errors. Static typing limits your freedom, but it leads to fewer bugs, even if it&amp;rsquo;s harder to actually write code.
-This isn&amp;rsquo;t entirely false. Yes, it can be quite hard to write a Rust or Haskell program that compiles, enough that it&amp;rsquo;s a running gag in their communities. &amp;ldquo;But once you get it to compile, it&amp;rsquo;s probably correct!</description>
+      <guid>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/18_r1_01_05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Сепсис: ключевые проблемы диагностики и лечения в РФ</title>
+      <link>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/18_r1_01_02/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/18_r1_01_02/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Участие клеточной каспазы-3 в EV-A71 2Apro-опосредованной отрицательной регуляции IFNAR1 на уровне трансляции</title>
+      <link>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/18_r1_01_01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/18_r1_01_01/</guid>
+      <description></description>
     </item>
     
   </channel>

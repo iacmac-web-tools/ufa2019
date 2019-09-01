@@ -25,7 +25,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/17_r2_01/</guid>
-      <description>Acceuil, Thé, Café et Chocolatines</description>
+      <description></description>
     </item>
     
     <item>
@@ -34,7 +34,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/17_r1_03/</guid>
-      <description>Acceuil, Thé, Café et Chocolatines</description>
+      <description></description>
     </item>
     
     <item>
@@ -43,7 +43,34 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/17_r1_02/</guid>
-      <description>Acceuil, Thé, Café et Chocolatines</description>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Вирусные инфекции: новые возможности лечения</title>
+      <link>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/18_r3_01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/18_r3_01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Инфекции в терапевтической практике</title>
+      <link>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/18_r1_02/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/18_r1_02/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Микробиологическая диагностика респираторных инфекций у пациентов с муковисцидозом и нарушениями иммунитета</title>
+      <link>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/18_r4_01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/18_r4_01/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -52,7 +79,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/17_r1_open/</guid>
-      <description>Acceuil, Thé, Café et Chocolatines</description>
+      <description></description>
     </item>
     
     <item>
@@ -61,7 +88,34 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/17_r1_01/</guid>
-      <description>Acceuil, Thé, Café et Chocolatines</description>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Пленарное заседание</title>
+      <link>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/18_r1_01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/18_r1_01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Проблемы терапии бактериальной и паразитарной инфекции</title>
+      <link>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/18_r3_02/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/18_r3_02/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Сложные клинические ситуации</title>
+      <link>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/18_r1_03/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/18_r1_03/</guid>
+      <description></description>
     </item>
     
   </channel>
