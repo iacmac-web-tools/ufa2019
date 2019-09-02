@@ -4,15 +4,17 @@
 
 	<header class="tag-{{ anchorize (delimit .Params.tags "" ) }}">
 
-	{{ with .Params.day }}
+	
 	<div class="tags">
-		<span>{{- partial "date-long.html" (dict "time" . "lang" $lang) }}</span>
+		{{ with .Params.day }}<span>{{- partial "date-long.html" (dict "time" . "lang" $lang) }}</span>{{ end }}
+		{{ with .Params.time }}<span>{{ .  }}</span>{{ end }}
 	</div>
-	{{ end }}
 
-	{{ with .Params.time }}
+	{{ with .Params.room }}
 	<div class="tags">
-		<span>{{ .  }}</span>
+		{{ range where (where $.Site.Data.rooms "key" .) "skip" "!=" true }}
+		<span>{{ .label  }}</span>
+		{{ end }}
 	</div>
 	{{ end }}
 

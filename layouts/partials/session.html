@@ -11,16 +11,18 @@
 
 
 <div class="info">
-	{{ with .Params.day }}
-		<div class="day-of-conference">
-			<span>{{- partial "date-long.html" (dict "time" . "lang" $lang) }}</span>
-		</div>
-	{{ end }}
-
-	{{ if .Params.time }}
-		<div class="tags">
-			<span>{{ .Params.time  }}</span>
-		</div>
+	
+	<div class="day-of-conference">
+		{{ with .Params.day }}<span>{{- partial "date-long.html" (dict "time" . "lang" $lang) }}</span>{{ end}}
+		{{ if .Params.time }}<span>{{ .Params.time  }}</span>{{ end }}
+	</div>
+	
+	{{ with .Params.room }}
+	<div class="tags">
+		{{ range where (where $.Site.Data.rooms "key" .) "skip" "!=" true }}
+		<span>{{ .label  }}</span>
+		{{ end }}
+	</div>
 	{{ end }}
 	
 	{{ if .Params.subtitle }}
