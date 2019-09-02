@@ -1,48 +1,48 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>web on Devfest Toulouse 2019</title>
-    <link>https://sandbox-devfesttoulouse.firebaseapp.com/tags/web/</link>
-    <description>Recent content in web on Devfest Toulouse 2019</description>
+    <title>web on МАКМАХ | Уфа 2019</title>
+    <link>https://iacmac-web-tools.github.io/tags/web/</link>
+    <description>Recent content in web on МАКМАХ | Уфа 2019</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ru</language>
+    <language>ru-ru</language>
     
-	<atom:link href="https://sandbox-devfesttoulouse.firebaseapp.com/tags/web/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://iacmac-web-tools.github.io/tags/web/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Антибактериальная терапия госпитальных инфекций у новорождённых: легальные возможности</title>
-      <link>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/17_r1_03_02/</link>
+      <link>https://iacmac-web-tools.github.io/sessions/17_r1_03_02/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/17_r1_03_02/</guid>
+      <guid>https://iacmac-web-tools.github.io/sessions/17_r1_03_02/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Антибиотикотерапия внебольничных инфекций мочевых путей у беременных</title>
-      <link>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/17_r1_03_04/</link>
+      <link>https://iacmac-web-tools.github.io/sessions/17_r1_03_04/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/17_r1_03_04/</guid>
+      <guid>https://iacmac-web-tools.github.io/sessions/17_r1_03_04/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Безопасность применения антибиотиков у беременных</title>
-      <link>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/17_r1_03_03/</link>
+      <link>https://iacmac-web-tools.github.io/sessions/17_r1_03_03/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/17_r1_03_03/</guid>
+      <guid>https://iacmac-web-tools.github.io/sessions/17_r1_03_03/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Концепция профилактики инфекций в родовспоможении</title>
-      <link>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/17_r1_03_01/</link>
+      <link>https://iacmac-web-tools.github.io/sessions/17_r1_03_01/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/17_r1_03_01/</guid>
+      <guid>https://iacmac-web-tools.github.io/sessions/17_r1_03_01/</guid>
       <description></description>
     </item>
     

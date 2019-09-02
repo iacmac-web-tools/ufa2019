@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>party on Devfest Toulouse 2019</title>
-    <link>https://sandbox-devfesttoulouse.firebaseapp.com/tags/party/</link>
-    <description>Recent content in party on Devfest Toulouse 2019</description>
+    <title>party on МАКМАХ | Уфа 2019</title>
+    <link>https://iacmac-web-tools.github.io/tags/party/</link>
+    <description>Recent content in party on МАКМАХ | Уфа 2019</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ru</language>
+    <language>ru-ru</language>
     
-	<atom:link href="https://sandbox-devfesttoulouse.firebaseapp.com/tags/party/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://iacmac-web-tools.github.io/tags/party/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Дискуссия</title>
-      <link>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/__party/</link>
+      <link>https://iacmac-web-tools.github.io/sessions/__party/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sandbox-devfesttoulouse.firebaseapp.com/sessions/__party/</guid>
+      <guid>https://iacmac-web-tools.github.io/sessions/__party/</guid>
       <description>🎉 Party time</description>
     </item>
     

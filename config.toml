@@ -1,7 +1,7 @@
-baseURL = "https://sandbox-devfesttoulouse.firebaseapp.com/"
-languageCode = "ru"
+baseURL = "https://iacmac-web-tools.github.io/"
+languageCode = "ru-ru"
 defaultContentLanguage = "ru"
-title = "Devfest Toulouse 2019"
+title = "МАКМАХ | Уфа 2019"
 
 # Theme
 theme = "devfest-theme-hugo"
