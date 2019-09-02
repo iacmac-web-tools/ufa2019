@@ -1,4 +1,4 @@
-baseURL = "https://iacmac-web-tools.github.io/"
+baseURL = "http://ufa2019.iacmac.ru/"
 languageCode = "ru-ru"
 defaultContentLanguage = "ru"
 title = "МАКМАХ | Уфа 2019"
@@ -13,7 +13,7 @@ enableEmoji = true
 enableRobotsTXT = true
 enableMissingTranslationPlaceholders = true
 
-googleAnalytics = ""
+googleAnalytics = "UA-85066436-13"
 
 [params]
     title = "МАКМАХ | Уфа 2019"

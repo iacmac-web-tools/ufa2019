@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Докладчики on МАКМАХ | Уфа 2019</title>
-    <link>https://iacmac-web-tools.github.io/speakers/</link>
+    <link>http://ufa2019.iacmac.ru/speakers/</link>
     <description>Recent content in Докладчики on МАКМАХ | Уфа 2019</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
     
-	<atom:link href="https://iacmac-web-tools.github.io/speakers/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://ufa2019.iacmac.ru/speakers/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://iacmac-web-tools.github.io/speakers/kozlov_rs/</link>
+      <link>http://ufa2019.iacmac.ru/speakers/kozlov_rs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://iacmac-web-tools.github.io/speakers/kozlov_rs/</guid>
+      <guid>http://ufa2019.iacmac.ru/speakers/kozlov_rs/</guid>
       <description> доктор медицинских наук, профессор, член-корреспондент РАН  ректор ФГБОУ ВО «Смоленский государственный медицинский университет», директор НИИ антимикробной химиотерапии ФГБОУ ВО «Смоленский государственный медицинский университет» Министерства здравоохранения Российской Федерации, президент Межрегиональной ассоциации по клинической микробиологии и антимикробной химиотерапии (МАКМАХ), главный внештатный специалист Министерства здравоохранения Российской Федерации по клинической микробиологии и антимикробной резистентности  </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://iacmac-web-tools.github.io/speakers/vincent_ogloblinsky/</link>
+      <link>http://ufa2019.iacmac.ru/speakers/vincent_ogloblinsky/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://iacmac-web-tools.github.io/speakers/vincent_ogloblinsky/</guid>
+      <guid>http://ufa2019.iacmac.ru/speakers/vincent_ogloblinsky/</guid>
       <description>Brestois du bout du monde émigré à Rennes, je suis architecte logiciel dans une ESN française et passionné par les technologies du web, et la plupart du temps je les utilise en codant en (Type||Java)script. . Je suis également Google Developer Expert sur les technologies web. Le partage de la connaissance est pour moi une chose importante : au sein de ma société au travers de déjeuners techniques ou de sessions de mobprogramming; durant des formations HTML5, Angular 1 &amp;amp; 2 ou autres; en présentant des sujets lors de conférences; et enfin en contribuant et en maintenant des projets open-source.</description>
     </item>
     

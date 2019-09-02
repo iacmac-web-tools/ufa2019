@@ -41,7 +41,7 @@ More information [here](https://gohugo.io/commands/hugo_server/)
 Just run
 
 ```bash
-hugo
+hugo --cleanDestinationDir
 ```
 
 More information [here](https://gohugo.io/commands/hugo/)

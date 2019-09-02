@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>party on МАКМАХ | Уфа 2019</title>
-    <link>https://iacmac-web-tools.github.io/tags/party/</link>
+    <link>http://ufa2019.iacmac.ru/tags/party/</link>
     <description>Recent content in party on МАКМАХ | Уфа 2019</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
     
-	<atom:link href="https://iacmac-web-tools.github.io/tags/party/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://ufa2019.iacmac.ru/tags/party/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Дискуссия</title>
-      <link>https://iacmac-web-tools.github.io/sessions/__party/</link>
+      <link>http://ufa2019.iacmac.ru/sessions/__party/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://iacmac-web-tools.github.io/sessions/__party/</guid>
+      <guid>http://ufa2019.iacmac.ru/sessions/__party/</guid>
       <description>🎉 Party time</description>
     </item>
     
