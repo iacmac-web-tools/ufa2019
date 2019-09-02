@@ -1,6 +1,14 @@
 {{ $lang := $.Page.Language.Lang }}
 <a href="{{ .URL }}">
 
+	{{ with .Params.room }}
+	<div class="tags">
+		{{ range where (where $.Site.Data.rooms "key" .) "skip" "!=" true }}
+		<span>{{ .label  }}</span>
+		{{ end }}
+	</div>
+	{{ end }}
+
 <h2>
 	{{ .Title }}
 	<span class="language {{ anchorize .Params.language }}"></span>
@@ -17,13 +25,7 @@
 		{{ if .Params.time }}<span>{{ .Params.time  }}</span>{{ end }}
 	</div>
 	
-	{{ with .Params.room }}
-	<div class="tags">
-		{{ range where (where $.Site.Data.rooms "key" .) "skip" "!=" true }}
-		<span>{{ .label  }}</span>
-		{{ end }}
-	</div>
-	{{ end }}
+
 	
 	{{ if .Params.subtitle }}
 		<div class="subtitle">
