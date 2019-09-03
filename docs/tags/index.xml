@@ -11,83 +11,11 @@
     
     
     <item>
-      <title>big-data-ml-ai</title>
-      <link>http://ufa2019.iacmac.ru/tags/big-data-ml-ai/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://ufa2019.iacmac.ru/tags/big-data-ml-ai/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cloud-infra</title>
-      <link>http://ufa2019.iacmac.ru/tags/cloud-infra/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://ufa2019.iacmac.ru/tags/cloud-infra/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>general</title>
-      <link>http://ufa2019.iacmac.ru/tags/general/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://ufa2019.iacmac.ru/tags/general/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>iot</title>
-      <link>http://ufa2019.iacmac.ru/tags/iot/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://ufa2019.iacmac.ru/tags/iot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>keynote</title>
-      <link>http://ufa2019.iacmac.ru/tags/keynote/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://ufa2019.iacmac.ru/tags/keynote/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>languages</title>
-      <link>http://ufa2019.iacmac.ru/tags/languages/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://ufa2019.iacmac.ru/tags/languages/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>lunch</title>
       <link>http://ufa2019.iacmac.ru/tags/lunch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://ufa2019.iacmac.ru/tags/lunch/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>method-tools</title>
-      <link>http://ufa2019.iacmac.ru/tags/method-tools/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://ufa2019.iacmac.ru/tags/method-tools/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>native-mobile-apps</title>
-      <link>http://ufa2019.iacmac.ru/tags/native-mobile-apps/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://ufa2019.iacmac.ru/tags/native-mobile-apps/</guid>
       <description></description>
     </item>
     
@@ -119,20 +47,92 @@
     </item>
     
     <item>
-      <title>web</title>
-      <link>http://ufa2019.iacmac.ru/tags/web/</link>
+      <title>symposium-17-r1-1</title>
+      <link>http://ufa2019.iacmac.ru/tags/symposium-17-r1-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://ufa2019.iacmac.ru/tags/web/</guid>
+      <guid>http://ufa2019.iacmac.ru/tags/symposium-17-r1-1/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>wtf</title>
-      <link>http://ufa2019.iacmac.ru/tags/wtf/</link>
+      <title>symposium-17-r1-2</title>
+      <link>http://ufa2019.iacmac.ru/tags/symposium-17-r1-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://ufa2019.iacmac.ru/tags/wtf/</guid>
+      <guid>http://ufa2019.iacmac.ru/tags/symposium-17-r1-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>symposium-17-r1-3</title>
+      <link>http://ufa2019.iacmac.ru/tags/symposium-17-r1-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ufa2019.iacmac.ru/tags/symposium-17-r1-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>symposium-17-r2-1</title>
+      <link>http://ufa2019.iacmac.ru/tags/symposium-17-r2-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ufa2019.iacmac.ru/tags/symposium-17-r2-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>symposium-18-r1-1</title>
+      <link>http://ufa2019.iacmac.ru/tags/symposium-18-r1-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ufa2019.iacmac.ru/tags/symposium-18-r1-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>symposium-18-r1-2</title>
+      <link>http://ufa2019.iacmac.ru/tags/symposium-18-r1-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ufa2019.iacmac.ru/tags/symposium-18-r1-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>symposium-18-r1-3</title>
+      <link>http://ufa2019.iacmac.ru/tags/symposium-18-r1-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ufa2019.iacmac.ru/tags/symposium-18-r1-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>symposium-18-r3-1</title>
+      <link>http://ufa2019.iacmac.ru/tags/symposium-18-r3-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ufa2019.iacmac.ru/tags/symposium-18-r3-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>symposium-18-r3-2</title>
+      <link>http://ufa2019.iacmac.ru/tags/symposium-18-r3-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ufa2019.iacmac.ru/tags/symposium-18-r3-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>symposium-18-r4-1</title>
+      <link>http://ufa2019.iacmac.ru/tags/symposium-18-r4-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ufa2019.iacmac.ru/tags/symposium-18-r4-1/</guid>
       <description></description>
     </item>
     

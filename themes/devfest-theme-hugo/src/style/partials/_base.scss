@@ -67,3 +67,14 @@ a, a:visited {
 body > main > section.container, body > header.container, body > footer.container {
   padding: 4rem var(--container-margin);
 }
+
+.subtitle-symposium {
+  font-size: 16px;
+  margin-top: 1em;
+
+  a.link { 
+    margin-top: 1em;
+    text-decoration: underline;
+  }
+
+}
