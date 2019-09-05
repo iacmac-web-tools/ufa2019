@@ -65,6 +65,24 @@
           talk: 17_R2_01_05
         - slot: discussion-d1-r2-1
           talk: __party
+        - slot: pause-d1-r2-1
+          talk: __pause
+        - slot: 17_R2_02
+          talk: 17_R2_02
+        - slot: 17_R2_02_01
+          talk: 17_R2_02_01
+        - slot: 17_R2_02_02
+          talk: 17_R2_02_02
+        - slot: 17_R2_02_03
+          talk: 17_R2_02_03
+        - slot: 17_R2_02_04
+          talk: 17_R2_02_04
+        - slot: 17_R2_02_05
+          talk: 17_R2_02_05
+        - slot: 17_R2_02_06
+          talk: 17_R2_02_06
+        - slot: discussion-d1-r2-2
+          talk: __party
 - day: '2019-10-18'
   start: '09:00'
   rooms:

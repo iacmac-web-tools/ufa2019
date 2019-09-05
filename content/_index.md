@@ -8,7 +8,7 @@ menu:
 ---
 
 
-{{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="DevFest Toulouse 2019" %}}
+{{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="МАКМАХ Уфа 2019" %}}
 
 # Евразийский конгресс по антимикробной терапии и клинической микробиологии
 ## 17–18 октября 2019 г.
@@ -64,11 +64,10 @@ It is aimed at students, professionals or simply curious technophiles.
 
 {{% /home-subscribe %}}
 
-<!-- ... -->
+<!-- 
 
 {{% home-tickets class="primary" %}}
 # Tickets <a class="btn primary" href="https://www.billetweb.fr/devfest-toulouse-2019" target="_blank"><svg class="icon icon-cfp"><use xlink:href="#ticket"></use></svg>Ticketing</a>
-
 <ul>
 <li>{{< ticket name="Blind Birds"
            starts="2019-03-25"
@@ -92,34 +91,30 @@ It is aimed at students, professionals or simply curious technophiles.
            soldOut="true"
            url="https://www.billetweb.fr/devfest-toulouse-2019" >}}</li>
 </ul>
-
 \* Your ticket gives you access to all conferences, coffee breaks, and lunch. Accommodation is NOT included in this price.
 
 {{% /home-tickets %}}
 
 
-<!-- ... -->
+-->
 
 {{% home-location
     image="/images/map.jpg"
-    address="11 Espl. Compans Caffarelli, 31000 Toulouse"
-    latitude="43.6110956"
-    longitude="1.4332799" %}}
+    address="Республика Башкортостан, г. Уфа, ул. Заки Валиди, 2"
+    latitude="54.721050"
+    longitude="55.928578" %}}
 
-## The venue
+## 17–18 октября 2019
 
-### Centre de Congrès Pierre Baudis
+### Конгресс-холл Торатау
 
-The Centre de Congrès Pierre Baudis is a modern place of exchange,
-located on a privileged location,
-in the immediate vicinity of the centre of Toulouse and in a green environment.
+Евразийский конгресс по антимикробной терапии и клинической микробиологии
 
 {{% /home-location %}}
 
 <!-- ... -->
 
 {{% album images="/images/album/2018/_25A9313.jpg,/images/album/2018/_25A9386.jpg,/images/album/2018/_25A9671.jpg,/images/album/2018/_25A9334.jpg,/images/album/2018/_25A9282.jpg,/images/album/2018/_25A9612.jpg,/images/album/2018/_25A9452.jpg,/images/album/2018/_25A9628.jpg" %}}
-
 ### Some pictures of the **DevFest Toulouse 2018** with the 👾 _retro-gaming_ theme.
 
 <a class="btn primary" target="_blank" rel="noopener" href="https://photos.app.goo.gl/nJYFVReFUk9mnXbv9">
@@ -133,5 +128,4 @@ in the immediate vicinity of the centre of Toulouse and in a green environment.
 
 {{% partners categories="platinium,gold,startup,soutien,communautes" %}}
 ## Partners <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://drive.google.com/file/d/1td_9Cr1b2JZvv0bCpOCJNDsEWgVgEp2Y/view?usp=sharing" target="_blank">Become a sponsor</a>
-
 {{% /partners %}}
