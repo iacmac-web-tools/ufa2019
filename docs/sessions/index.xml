@@ -38,15 +38,6 @@
     </item>
     
     <item>
-      <title>MDAD: веб-сервер для Ассоциации микробных заболеваний и межвидового анализа передачи</title>
-      <link>http://ufa2019.iacmac.ru/sessions/17_r2_01_05/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://ufa2019.iacmac.ru/sessions/17_r2_01_05/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Pseudomonas aeruginosa: ключевые аспекты микробиологической диагностики</title>
       <link>http://ufa2019.iacmac.ru/sessions/17_r1_02_02/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -61,15 +52,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://ufa2019.iacmac.ru/sessions/17_r1_02_03/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>«Внутрибольничные инфекции и инновационные технологии в микробиологии»</title>
-      <link>http://ufa2019.iacmac.ru/sessions/17_r2_01/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://ufa2019.iacmac.ru/sessions/17_r2_01/</guid>
       <description></description>
     </item>
     
@@ -92,6 +74,24 @@
     </item>
     
     <item>
+      <title>«Проблемы терапии бактериальной и паразитарной инфекции»</title>
+      <link>http://ufa2019.iacmac.ru/sessions/17_r2_02/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ufa2019.iacmac.ru/sessions/17_r2_02/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>«Современные исследования в клинической микробиологии»</title>
+      <link>http://ufa2019.iacmac.ru/sessions/17_r2_01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ufa2019.iacmac.ru/sessions/17_r2_01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Адаптация стратегии контроля антимикробной терапии (СКАТ) к условиям многопрофильного стационара: прошлое, настоящее, перспективы</title>
       <link>http://ufa2019.iacmac.ru/sessions/18_r1_01_04/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -101,11 +101,29 @@
     </item>
     
     <item>
+      <title>Актуальные вопросы инфекционных заболеваний у детей и женщин</title>
+      <link>http://ufa2019.iacmac.ru/sessions/18_r3_02/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ufa2019.iacmac.ru/sessions/18_r3_02/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Антибактериальная терапия госпитальных инфекций у новорождённых: легальные возможности</title>
       <link>http://ufa2019.iacmac.ru/sessions/17_r1_03_02/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://ufa2019.iacmac.ru/sessions/17_r1_03_02/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Антибиотикассоциированная диарея: современные подходы к профилактике и лечению</title>
+      <link>http://ufa2019.iacmac.ru/sessions/18_r3_02_02/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ufa2019.iacmac.ru/sessions/18_r3_02_02/</guid>
       <description></description>
     </item>
     
@@ -147,10 +165,10 @@
     
     <item>
       <title>ВИЧ-инфекция и беременность</title>
-      <link>http://ufa2019.iacmac.ru/sessions/18_r3_01_04/</link>
+      <link>http://ufa2019.iacmac.ru/sessions/18_r3_02_07/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://ufa2019.iacmac.ru/sessions/18_r3_01_04/</guid>
+      <guid>http://ufa2019.iacmac.ru/sessions/18_r3_02_07/</guid>
       <description></description>
     </item>
     
@@ -192,10 +210,10 @@
     
     <item>
       <title>Гемоконтактные инфекции, как внутрибольничная инфекция</title>
-      <link>http://ufa2019.iacmac.ru/sessions/17_r2_01_02/</link>
+      <link>http://ufa2019.iacmac.ru/sessions/17_r2_02_03/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://ufa2019.iacmac.ru/sessions/17_r2_01_02/</guid>
+      <guid>http://ufa2019.iacmac.ru/sessions/17_r2_02_03/</guid>
       <description></description>
     </item>
     
@@ -245,6 +263,24 @@
     </item>
     
     <item>
+      <title>Идентификация основных факторов высокого риска вирулентности Klebsiella pneumoniae на основе глобальных геномов</title>
+      <link>http://ufa2019.iacmac.ru/sessions/17_r2_01_03/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ufa2019.iacmac.ru/sessions/17_r2_01_03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Изменение состояния ВИЧ-инфицированного пациента в зависимости от коморбидных состояний и коррекции различными способами</title>
+      <link>http://ufa2019.iacmac.ru/sessions/17_r2_02_02/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ufa2019.iacmac.ru/sessions/17_r2_02_02/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Иксодовые клещевые боррелиозы в республике Башкортостан</title>
       <link>http://ufa2019.iacmac.ru/sessions/18_r3_01_05/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -254,11 +290,20 @@
     </item>
     
     <item>
-      <title>Индикация Listeria monocytogenes и Staphilococcus aureus в молоке</title>
-      <link>http://ufa2019.iacmac.ru/sessions/18_r3_02_02/</link>
+      <title>Иммунологическая коррекция при энтеровирусных заболеваниях у детей</title>
+      <link>http://ufa2019.iacmac.ru/sessions/18_r3_02_01/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://ufa2019.iacmac.ru/sessions/18_r3_02_02/</guid>
+      <guid>http://ufa2019.iacmac.ru/sessions/18_r3_02_01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Индикация Listeria monocytogenes и Staphilococcus aureus в молоке</title>
+      <link>http://ufa2019.iacmac.ru/sessions/17_r2_02_05/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ufa2019.iacmac.ru/sessions/17_r2_02_05/</guid>
       <description></description>
     </item>
     
@@ -299,6 +344,15 @@
     </item>
     
     <item>
+      <title>Клиническая эпидемиология инфекции Talaromyces marneffei среди пациентов с ВИЧ/СПИДом в Гуанси, Китай</title>
+      <link>http://ufa2019.iacmac.ru/sessions/17_r2_01_02/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ufa2019.iacmac.ru/sessions/17_r2_01_02/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Ключевые аспекты микробиологической диагностики инфекций респираторного тракта у пациентов с муковисцидозом</title>
       <link>http://ufa2019.iacmac.ru/sessions/18_r4_01_03/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -318,10 +372,10 @@
     
     <item>
       <title>Лёгочные инфекции у ВИЧ-инфицированных</title>
-      <link>http://ufa2019.iacmac.ru/sessions/18_r3_02_07/</link>
+      <link>http://ufa2019.iacmac.ru/sessions/18_r3_01_04/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://ufa2019.iacmac.ru/sessions/18_r3_02_07/</guid>
+      <guid>http://ufa2019.iacmac.ru/sessions/18_r3_01_04/</guid>
       <description></description>
     </item>
     
@@ -407,6 +461,15 @@
     </item>
     
     <item>
+      <title>Острые кишечные инфекции в детском возрасте, возможности медикаментозной и диетической коррекции</title>
+      <link>http://ufa2019.iacmac.ru/sessions/18_r3_02_06/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ufa2019.iacmac.ru/sessions/18_r3_02_06/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Открытие конгресса</title>
       <link>http://ufa2019.iacmac.ru/sessions/17_r1_open/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -452,29 +515,29 @@
     </item>
     
     <item>
+      <title>Польза и риски применения НПВП в педиатрии при бактериальных и вирусных проявлениях</title>
+      <link>http://ufa2019.iacmac.ru/sessions/18_r3_02_03/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ufa2019.iacmac.ru/sessions/18_r3_02_03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Проблемы коморбидности у пациентов с хроническими инфекционными и паразитарными болезнями в практике семейных врачей Таджикистана</title>
-      <link>http://ufa2019.iacmac.ru/sessions/18_r3_02_01/</link>
+      <link>http://ufa2019.iacmac.ru/sessions/17_r2_02_04/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://ufa2019.iacmac.ru/sessions/18_r3_02_01/</guid>
+      <guid>http://ufa2019.iacmac.ru/sessions/17_r2_02_04/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Проблемы терапии бактериальной и паразитарной инфекции</title>
-      <link>http://ufa2019.iacmac.ru/sessions/18_r3_02/</link>
+      <title>Протеомное профилирование сальмонелл при заражении отличает внутриклеточную среду клеток-хозяев</title>
+      <link>http://ufa2019.iacmac.ru/sessions/17_r2_01_01/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://ufa2019.iacmac.ru/sessions/18_r3_02/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Проблемы этиотропной терапии внебольничной пневмонии в Республике Башкортостан</title>
-      <link>http://ufa2019.iacmac.ru/sessions/18_r3_02_06/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://ufa2019.iacmac.ru/sessions/18_r3_02_06/</guid>
+      <guid>http://ufa2019.iacmac.ru/sessions/17_r2_01_01/</guid>
       <description></description>
     </item>
     
@@ -543,37 +606,37 @@
     
     <item>
       <title>Современные методы лечения паразитарных заболеваний</title>
-      <link>http://ufa2019.iacmac.ru/sessions/18_r3_02_03/</link>
+      <link>http://ufa2019.iacmac.ru/sessions/17_r2_02_06/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://ufa2019.iacmac.ru/sessions/18_r3_02_03/</guid>
+      <guid>http://ufa2019.iacmac.ru/sessions/17_r2_02_06/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Современные подходы к оценке риска формирования множественной лекарственной устойчивости возбудителей ИСМП</title>
-      <link>http://ufa2019.iacmac.ru/sessions/17_r2_01_01/</link>
+      <link>http://ufa2019.iacmac.ru/sessions/17_r2_02_01/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://ufa2019.iacmac.ru/sessions/17_r2_01_01/</guid>
+      <guid>http://ufa2019.iacmac.ru/sessions/17_r2_02_01/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Сравнение ОТ-ПЦР в реальном времени и прямого иммунофлуоресцентного теста на обнаружение хантавирусов в лёгких у крыс</title>
-      <link>http://ufa2019.iacmac.ru/sessions/17_r2_01_04/</link>
+      <link>http://ufa2019.iacmac.ru/sessions/17_r2_01_05/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://ufa2019.iacmac.ru/sessions/17_r2_01_04/</guid>
+      <guid>http://ufa2019.iacmac.ru/sessions/17_r2_01_05/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Сравнение и анализ 4 серологических методов обнаружения бруцеллёза у человека</title>
-      <link>http://ufa2019.iacmac.ru/sessions/17_r2_01_03/</link>
+      <link>http://ufa2019.iacmac.ru/sessions/17_r2_01_04/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://ufa2019.iacmac.ru/sessions/17_r2_01_03/</guid>
+      <guid>http://ufa2019.iacmac.ru/sessions/17_r2_01_04/</guid>
       <description></description>
     </item>
     

@@ -10,9 +10,8 @@ menu:
 
 {{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="МАКМАХ Уфа 2019" %}}
 
-# Евразийский конгресс по антимикробной терапии и клинической микробиологии
 ## 17–18 октября 2019 г.
-### Республика Башкортостан, г. Уфа, ул. Заки Валиди, 2; ГБУ РБ «Конгресс-холл Торатау»
+### Уфа, ул. Заки Валиди, 2, Конгресс-холл «Торатау»
 
 <!-- <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://drive.google.com/file/d/1td_9Cr1b2JZvv0bCpOCJNDsEWgVgEp2Y/view?usp=sharing" target="_blank">Become a sponsor</a> -->
 
