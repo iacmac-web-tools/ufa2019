@@ -11,11 +11,11 @@ TZOFFSETFROM:+0500
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Yekaterinburg:20191017T165000
-DTEND;TZID=Asia/Yekaterinburg:20191017T171000
-SUMMARY:Сравнение ОТ-ПЦР в реальном времени и прямого иммунофлуоресцентного теста на обнаружение хантавирусов в лёгких у крыс
+DTSTART;TZID=Asia/Yekaterinburg:20191017T140000
+DTEND;TZID=Asia/Yekaterinburg:20191017T–00
+SUMMARY:Сравнение и анализ 4 серологических методов обнаружения бруцеллёза у человека
 LOCATION:Зал заседаний
-DESCRIPTION:Докладчик: Козлов Роман Сергеевич (Россия, Смоленск)
+DESCRIPTION:Докладчик: На Т (Китай)
 PRIORITY:3
 END:VEVENT
 END:VCALENDAR

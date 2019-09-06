@@ -11,11 +11,11 @@ TZOFFSETFROM:+0500
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Yekaterinburg:20191017T160000
-DTEND;TZID=Asia/Yekaterinburg:20191017T162000
-SUMMARY:Гемоконтактные инфекции, как внутрибольничная инфекция
+DTSTART;TZID=Asia/Yekaterinburg:20191017T130000
+DTEND;TZID=Asia/Yekaterinburg:20191017T–00
+SUMMARY:Клиническая эпидемиология инфекции Talaromyces marneffei среди пациентов с ВИЧ/СПИДом в Гуанси, Китай
 LOCATION:Зал заседаний
-DESCRIPTION:Докладчик: Козлов Роман Сергеевич (Россия, Смоленск)
+DESCRIPTION:Докладчик: Хао Л (Китай)
 PRIORITY:3
 END:VEVENT
 END:VCALENDAR

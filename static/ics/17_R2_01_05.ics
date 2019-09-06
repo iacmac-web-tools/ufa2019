@@ -11,11 +11,11 @@ TZOFFSETFROM:+0500
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Yekaterinburg:20191017T171000
-DTEND;TZID=Asia/Yekaterinburg:20191017T173000
-SUMMARY:MDAD: веб-сервер для Ассоциации микробных заболеваний и межвидового анализа передачи
+DTSTART;TZID=Asia/Yekaterinburg:20191017T143000
+DTEND;TZID=Asia/Yekaterinburg:20191017T–00
+SUMMARY:Сравнение ОТ-ПЦР в реальном времени и прямого иммунофлуоресцентного теста на обнаружение хантавирусов в лёгких у крыс
 LOCATION:Зал заседаний
-DESCRIPTION:Докладчик: Козлов Роман Сергеевич (Россия, Смоленск)
+DESCRIPTION:Докладчик: Вэй Нань (Китай)
 PRIORITY:3
 END:VEVENT
 END:VCALENDAR

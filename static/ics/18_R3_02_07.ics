@@ -12,10 +12,10 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Yekaterinburg:20191018T162000
-DTEND;TZID=Asia/Yekaterinburg:20191018T164000
-SUMMARY:Лёгочные инфекции у ВИЧ-инфицированных
+DTEND;TZID=Asia/Yekaterinburg:20191018T–00
+SUMMARY:ВИЧ-инфекция и беременность
 LOCATION:Выставочный зал
-DESCRIPTION:Докладчик: Козлов Роман Сергеевич (Россия, Смоленск)
+DESCRIPTION:Докладчики: Ящук (Россия), Мусин (Россия)
 PRIORITY:3
 END:VEVENT
 END:VCALENDAR

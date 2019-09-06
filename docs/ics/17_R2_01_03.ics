@@ -11,11 +11,11 @@ TZOFFSETFROM:+0500
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Yekaterinburg:20191017T162000
-DTEND;TZID=Asia/Yekaterinburg:20191017T165000
-SUMMARY:Сравнение и анализ 4 серологических методов обнаружения бруцеллёза у человека
+DTSTART;TZID=Asia/Yekaterinburg:20191017T133000
+DTEND;TZID=Asia/Yekaterinburg:20191017T–00
+SUMMARY:Идентификация основных факторов высокого риска вирулентности Klebsiella pneumoniae на основе глобальных геномов
 LOCATION:Зал заседаний
-DESCRIPTION:Докладчик: Козлов Роман Сергеевич (Россия, Смоленск)
+DESCRIPTION:Докладчик: Сяоли Ц (Китай)
 PRIORITY:3
 END:VEVENT
 END:VCALENDAR

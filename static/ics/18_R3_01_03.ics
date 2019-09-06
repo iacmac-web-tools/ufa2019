@@ -12,10 +12,10 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Yekaterinburg:20191018T125000
-DTEND;TZID=Asia/Yekaterinburg:20191018T132000
+DTEND;TZID=Asia/Yekaterinburg:20191018T–00
 SUMMARY:Герпесвирусные инфекции: клинические проявления, диагностика, лечение
 LOCATION:Выставочный зал
-DESCRIPTION:Докладчик: Козлов Роман Сергеевич (Россия, Смоленск)
+DESCRIPTION:Докладчик: Хасанова (Россия, Смоленск)
 PRIORITY:3
 END:VEVENT
 END:VCALENDAR

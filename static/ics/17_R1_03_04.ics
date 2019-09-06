@@ -12,10 +12,10 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Yekaterinburg:20191017T170000
-DTEND;TZID=Asia/Yekaterinburg:20191017T173000
+DTEND;TZID=Asia/Yekaterinburg:20191017T–00
 SUMMARY:Антибиотикотерапия внебольничных инфекций мочевых путей у беременных
 LOCATION:Концертный зал
-DESCRIPTION:Докладчик: Козлов Роман Сергеевич (Россия, Смоленск)
+DESCRIPTION:Докладчик: Палагин Иван Сергеевич (Россия, Смоленск)
 PRIORITY:3
 END:VEVENT
 END:VCALENDAR

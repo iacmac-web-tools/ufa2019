@@ -12,10 +12,10 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Yekaterinburg:20191017T160000
-DTEND;TZID=Asia/Yekaterinburg:20191017T163000
+DTEND;TZID=Asia/Yekaterinburg:20191017T–00
 SUMMARY:Антибактериальная терапия госпитальных инфекций у новорождённых: легальные возможности
 LOCATION:Концертный зал
-DESCRIPTION:Докладчик: Козлов Роман Сергеевич (Россия, Смоленск)
+DESCRIPTION:Докладчик: Широкова Татьяна Михайловна (Россия, Киров)
 PRIORITY:3
 END:VEVENT
 END:VCALENDAR

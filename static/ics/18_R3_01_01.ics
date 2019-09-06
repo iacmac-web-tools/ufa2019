@@ -12,10 +12,10 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Yekaterinburg:20191018T120000
-DTEND;TZID=Asia/Yekaterinburg:20191018T123000
+DTEND;TZID=Asia/Yekaterinburg:20191018T–00
 SUMMARY:Новые возможности в лечении хронического вирусного гепатита С
 LOCATION:Выставочный зал
-DESCRIPTION:Докладчик: Козлов Роман Сергеевич (Россия, Смоленск)
+DESCRIPTION:Докладчик: Валишин (Россия)
 PRIORITY:3
 END:VEVENT
 END:VCALENDAR

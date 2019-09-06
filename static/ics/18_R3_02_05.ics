@@ -12,10 +12,10 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Yekaterinburg:20191018T155000
-DTEND;TZID=Asia/Yekaterinburg:20191018T160000
+DTEND;TZID=Asia/Yekaterinburg:20191018T–00
 SUMMARY:Фитотерапия инфекционных заболеваний
 LOCATION:Выставочный зал
-DESCRIPTION:Докладчик: Козлов Роман Сергеевич (Россия, Смоленск)
+DESCRIPTION:Докладчик: Пупыкина (Россия)
 PRIORITY:3
 END:VEVENT
 END:VCALENDAR

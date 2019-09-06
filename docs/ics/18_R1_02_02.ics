@@ -12,10 +12,10 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Yekaterinburg:20191018T123000
-DTEND;TZID=Asia/Yekaterinburg:20191018T130000
+DTEND;TZID=Asia/Yekaterinburg:20191018T–00
 SUMMARY:Нозокомиальная пневмония вне ОРИТ
 LOCATION:Концертный зал
-DESCRIPTION:Докладчик: Козлов Роман Сергеевич (Россия, Смоленск)
+DESCRIPTION:Докладчик: Синопальников Александр Игоревич (Россия, Москва)
 PRIORITY:3
 END:VEVENT
 END:VCALENDAR

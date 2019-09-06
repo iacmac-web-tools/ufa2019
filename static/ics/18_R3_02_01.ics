@@ -12,10 +12,10 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Yekaterinburg:20191018T143000
-DTEND;TZID=Asia/Yekaterinburg:20191018T145500
-SUMMARY:Проблемы коморбидности у пациентов с хроническими инфекционными и паразитарными болезнями в практике семейных врачей Таджикистана
+DTEND;TZID=Asia/Yekaterinburg:20191018T–00
+SUMMARY:Иммунологическая коррекция при энтеровирусных заболеваниях у детей
 LOCATION:Выставочный зал
-DESCRIPTION:Докладчик: Козлов Роман Сергеевич (Россия, Смоленск)
+DESCRIPTION:Докладчик: Ширяева (Россия)
 PRIORITY:3
 END:VEVENT
 END:VCALENDAR

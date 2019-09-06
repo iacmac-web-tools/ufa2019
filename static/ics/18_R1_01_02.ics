@@ -12,10 +12,10 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Yekaterinburg:20191018T093000
-DTEND;TZID=Asia/Yekaterinburg:20191018T100000
+DTEND;TZID=Asia/Yekaterinburg:20191018T–00
 SUMMARY:Сепсис: ключевые проблемы диагностики и лечения в РФ
 LOCATION:Концертный зал
-DESCRIPTION:Докладчик: Козлов Роман Сергеевич (Россия, Смоленск)
+DESCRIPTION:Докладчик: Кулабухов Владимир Витальевич (Россия, Москва)
 PRIORITY:3
 END:VEVENT
 END:VCALENDAR

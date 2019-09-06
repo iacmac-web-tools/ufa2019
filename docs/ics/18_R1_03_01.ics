@@ -12,10 +12,10 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Yekaterinburg:20191018T143000
-DTEND;TZID=Asia/Yekaterinburg:20191018T150000
+DTEND;TZID=Asia/Yekaterinburg:20191018T–00
 SUMMARY:Антибиотикотерапия в ОРИТ Башкортостана. Реалии и перспективы
 LOCATION:Концертный зал
-DESCRIPTION:Докладчик: Козлов Роман Сергеевич (Россия, Смоленск)
+DESCRIPTION:Докладчик: Золотухин Константин Николаевич (Россия, Уфа)
 PRIORITY:3
 END:VEVENT
 END:VCALENDAR

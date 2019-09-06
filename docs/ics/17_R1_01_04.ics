@@ -12,10 +12,10 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Yekaterinburg:20191017T110000
-DTEND;TZID=Asia/Yekaterinburg:20191017T113000
+DTEND;TZID=Asia/Yekaterinburg:20191017T–00
 SUMMARY:Вакцинация: польза или риск?
 LOCATION:Концертный зал
-DESCRIPTION:Докладчик: Козлов Роман Сергеевич (Россия, Смоленск)
+DESCRIPTION:Докладчик: МакИнтош Дэвид (Великобритания, Лондон)
 PRIORITY:3
 END:VEVENT
 END:VCALENDAR

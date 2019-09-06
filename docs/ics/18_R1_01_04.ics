@@ -12,10 +12,10 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Yekaterinburg:20191018T103000
-DTEND;TZID=Asia/Yekaterinburg:20191018T110000
+DTEND;TZID=Asia/Yekaterinburg:20191018T–00
 SUMMARY:Адаптация стратегии контроля антимикробной терапии (СКАТ) к условиям многопрофильного стационара: прошлое, настоящее, перспективы
 LOCATION:Концертный зал
-DESCRIPTION:Докладчик: Козлов Роман Сергеевич (Россия, Смоленск)
+DESCRIPTION:Докладчик: Гусаров Виталий Геннадьевич (Россия, Москва)
 PRIORITY:3
 END:VEVENT
 END:VCALENDAR

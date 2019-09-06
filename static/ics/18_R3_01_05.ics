@@ -12,10 +12,10 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Yekaterinburg:20191018T134000
-DTEND;TZID=Asia/Yekaterinburg:20191018T140000
+DTEND;TZID=Asia/Yekaterinburg:20191018T–00
 SUMMARY:Иксодовые клещевые боррелиозы в республике Башкортостан
 LOCATION:Выставочный зал
-DESCRIPTION:Докладчик: Козлов Роман Сергеевич (Россия, Смоленск)
+DESCRIPTION:Докладчик: Мурзабаева (Россия)
 PRIORITY:3
 END:VEVENT
 END:VCALENDAR

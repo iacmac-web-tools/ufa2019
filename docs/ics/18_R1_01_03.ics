@@ -12,10 +12,10 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Yekaterinburg:20191018T100000
-DTEND;TZID=Asia/Yekaterinburg:20191018T103000
+DTEND;TZID=Asia/Yekaterinburg:20191018T–00
 SUMMARY:Ведение пациентов с инфекциями протезированных суставов: алгоритмы, которые действительно работают
 LOCATION:Концертный зал
-DESCRIPTION:Докладчик: Козлов Роман Сергеевич (Россия, Смоленск)
+DESCRIPTION:Докладчик: Сориано (Испания)
 PRIORITY:3
 END:VEVENT
 END:VCALENDAR

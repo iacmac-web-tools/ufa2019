@@ -12,10 +12,10 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Yekaterinburg:20191018T145500
-DTEND;TZID=Asia/Yekaterinburg:20191018T151500
-SUMMARY:Индикация Listeria monocytogenes и Staphilococcus aureus в молоке
+DTEND;TZID=Asia/Yekaterinburg:20191018T–00
+SUMMARY:Антибиотикассоциированная диарея: современные подходы к профилактике и лечению
 LOCATION:Выставочный зал
-DESCRIPTION:Докладчик: Козлов Роман Сергеевич (Россия, Смоленск)
+DESCRIPTION:Докладчик: Нижевич (Россия)
 PRIORITY:3
 END:VEVENT
 END:VCALENDAR

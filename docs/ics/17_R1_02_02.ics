@@ -12,10 +12,10 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Yekaterinburg:20191017T130000
-DTEND;TZID=Asia/Yekaterinburg:20191017T133000
+DTEND;TZID=Asia/Yekaterinburg:20191017T–00
 SUMMARY:Pseudomonas aeruginosa: ключевые аспекты микробиологической диагностики
 LOCATION:Концертный зал
-DESCRIPTION:Докладчик: Козлов Роман Сергеевич (Россия, Смоленск)
+DESCRIPTION:Докладчик: Эйдельштейн Михаил Владимирович (Россия, Смоленск)
 PRIORITY:3
 END:VEVENT
 END:VCALENDAR

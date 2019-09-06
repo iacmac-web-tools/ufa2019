@@ -12,7 +12,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Yekaterinburg:20191017T093000
-DTEND;TZID=Asia/Yekaterinburg:20191017T100000
+DTEND;TZID=Asia/Yekaterinburg:20191017T–00
 SUMMARY:Перспективные направления контроля антибиотикорезистентности
 LOCATION:Концертный зал
 DESCRIPTION:Докладчик: Козлов Роман Сергеевич (Россия, Смоленск)

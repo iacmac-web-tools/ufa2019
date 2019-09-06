@@ -12,10 +12,10 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Yekaterinburg:20191018T151500
-DTEND;TZID=Asia/Yekaterinburg:20191018T153500
-SUMMARY:Современные методы лечения паразитарных заболеваний
+DTEND;TZID=Asia/Yekaterinburg:20191018T–00
+SUMMARY:Польза и риски применения НПВП в педиатрии при бактериальных и вирусных проявлениях
 LOCATION:Выставочный зал
-DESCRIPTION:Докладчик: Козлов Роман Сергеевич (Россия, Смоленск)
+DESCRIPTION:Докладчик: Иксанова (Россия)
 PRIORITY:3
 END:VEVENT
 END:VCALENDAR

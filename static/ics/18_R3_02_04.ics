@@ -12,10 +12,10 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Yekaterinburg:20191018T153500
-DTEND;TZID=Asia/Yekaterinburg:20191018T155000
+DTEND;TZID=Asia/Yekaterinburg:20191018T–00
 SUMMARY:Динамика изменений микрофлоры ротовой жидкости у детей при применении капсулы Аэродент
 LOCATION:Выставочный зал
-DESCRIPTION:Докладчик: Козлов Роман Сергеевич (Россия, Смоленск)
+DESCRIPTION:Докладчик: Рахматова (Узбекистан)
 PRIORITY:3
 END:VEVENT
 END:VCALENDAR
