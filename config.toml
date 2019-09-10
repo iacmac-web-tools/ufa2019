@@ -16,7 +16,6 @@ enableMissingTranslationPlaceholders = true
 
 googleAnalytics = "UA-85066436-13"
 
-
 [params]
     env = "production"
     title = "МАКМАХ | Уфа 2019"
@@ -34,6 +33,9 @@ googleAnalytics = "UA-85066436-13"
     manifest = "/manifest.json"
     safariPinnedTab = "/safari-pinned-tab.svg"
     themeColor = "#387469"
+    # Comments on commentbox.io
+    commentBox = "5695181982531584-proj"
+    displayComments = true
 
 [params.logos]
     jumbo = "/images/logos/devfest_color_text.png"
