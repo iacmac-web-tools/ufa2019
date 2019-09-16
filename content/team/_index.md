@@ -1,11 +1,11 @@
 ---
 title: Команда
 type: team
-menu:
-  main:
-    weight: 60
+# menu:
+#   main:
+#     weight: 60
 
-draft: false
+draft: true
 
 ---
 

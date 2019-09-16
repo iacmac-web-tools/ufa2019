@@ -40,7 +40,7 @@ It is aimed at students, professionals or simply curious technophiles.
 
 
 {{% home-speakers %}}
-## Featured Speakers
+## Топовые докладчики
 
 <!--
 {{< button-link label="Submit a presentation"
@@ -48,7 +48,7 @@ It is aimed at students, professionals or simply curious technophiles.
                 icon="cfp" >}}
 --> 
 
-{{< button-link label="See all speakers"
+{{< button-link label="Список всех докладчиков"
                 url="./speakers"
                 icon="right" >}}
 
@@ -59,7 +59,7 @@ It is aimed at students, professionals or simply curious technophiles.
 
 {{% home-subscribe  class="primary" %}}
 
-## Get notified about the important conference updates
+## Участие в конференции для специалистов здравоохранения является бесплатным
 
 {{% /home-subscribe %}}
 
@@ -111,20 +111,10 @@ It is aimed at students, professionals or simply curious technophiles.
 
 {{% /home-location %}}
 
-<!-- ... -->
-
-{{% album images="/images/album/2018/_25A9313.jpg,/images/album/2018/_25A9386.jpg,/images/album/2018/_25A9671.jpg,/images/album/2018/_25A9334.jpg,/images/album/2018/_25A9282.jpg,/images/album/2018/_25A9612.jpg,/images/album/2018/_25A9452.jpg,/images/album/2018/_25A9628.jpg" %}}
-### Some pictures of the **DevFest Toulouse 2018** with the 👾 _retro-gaming_ theme.
-
-<a class="btn primary" target="_blank" rel="noopener" href="https://photos.app.goo.gl/nJYFVReFUk9mnXbv9">
-    See all photos
-    {{% icon "right" %}}
-</a>
-
-{{% /album  %}}
 
 <!-- ... --> 
 
-{{% partners categories="platinium,gold,startup,soutien,communautes" %}}
-## Partners <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://drive.google.com/file/d/1td_9Cr1b2JZvv0bCpOCJNDsEWgVgEp2Y/view?usp=sharing" target="_blank">Become a sponsor</a>
+{{% partners categories="platinum,general-medical-nopromo,general,main,sponsor,support" %}}
+## Партнеры 
+
 {{% /partners %}}

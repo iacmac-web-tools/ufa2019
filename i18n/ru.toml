@@ -85,3 +85,22 @@ other = "Поделиться в Вконтакте"
 other = "Share on Twitter"
 [open_slides]
 other = "Презентация"
+
+[platinum]
+other = "Платиновый спонсор"
+[gold]
+other = "Золотой спонсор"
+[general-medical-nopromo]
+other = "Генеральный медицинский непромоционный спонсор"
+[general]
+other = "Генеральный спонсор"
+[main]
+other = "Главные спонсоры"
+[sponsor]
+other = "Спонсоры"
+[support]
+other = "Поддерживающие компании"
+
+
+[register_action]
+other = "Зарегистрироваться"

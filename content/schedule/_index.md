@@ -9,14 +9,13 @@ draft: false
 ---
 
 {{% hero %}}
-<!--
-<a class="btn primary btn-lg" href="/schedule/schedule.ics">
-    <svg class="icon icon-calendar"><use xlink:href="#calendar"></use></svg> ICal
+
+<a class="btn primary btn-lg" target="_blank" href="/schedule/day_2019-10-17.pdf">
+    <svg class="icon icon-pdf"><use xlink:href="#pdf"></use></svg>17 октября
 </a>
 
-<a class="btn primary btn-lg" href="/schedule/schedule.pdf">
-    <svg class="icon icon-pdf"><use xlink:href="#pdf"></use></svg> PDF
-</a>-->
+<a class="btn primary btn-lg" target="_blank" href="/schedule/day_2019-10-18.pdf">
+    <svg class="icon icon-pdf"><use xlink:href="#pdf"></use></svg>18 октября
+</a>
 
-<!-- TODO: filter and search -->
 {{% /hero %}}
