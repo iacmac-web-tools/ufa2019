@@ -1,0 +1,9 @@
+---
+key: sandoz
+title: Sandoz
+category: main
+order: 03
+logo: /images/partners/sandoz.png
+website: 'https://www.sandoz.ru/'
+lang: ru
+---

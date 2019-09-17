@@ -33,26 +33,38 @@ It is aimed at students, professionals or simply curious technophiles.
 {{% /home-info %}}
 
 
-{{< youtube-section link="OH_Ne4Bm8I0" title="XXI конгресс МАКМАХ 22-24 мая 2019" class="" >}}
+<!--{{< youtube-section link="OH_Ne4Bm8I0" title="XXI конгресс МАКМАХ 22-24 мая 2019" class="" >}}-->
 
 <!-- ... -->
 
 
 
-{{% home-speakers %}}
-## Топовые докладчики
+{{% home-info %}}
+## Организаторы конференции:
 
-<!--
-{{< button-link label="Submit a presentation"
+<ul>
+  <li>Межрегиональная ассоциация по клинической микробиологии и антимикробной химиотерапии (<a href="http://www.iacmac.ru/iacmac/" target="_blank">МАКМАХ</a>)</li>
+  <li>Европейское общество по клинической микробиологии и инфекционным болезням (<a href="/url?www.escmid.org/" target="_blank">ESCMID</a>)</li>
+  <li>Международное общество по антимикробной химиотерапии (<a href="http://www.ischemo.org/" target="_blank">ISAC</a>)</li>
+  <li>ФГБОУ ВО «Башкирский государственный медицинский университет» Министерства здравоохранения Российской Федерации</li>
+  <li>Министерство здравоохранения Республики Башкортостан</li>
+  <li>Бухарский государственный медицинский институт</li>
+  <li>Таджикский государственный медицинский университет</li>
+  <li>НИИ антимикробной химиотерапии (<a href="http://www.iacmac.ru/iac.php" target="_blank">НИИАХ</a>) ФГБОУ ВО «Смоленский государственный медицинский университет» Министерства здравоохранения Российской Федерации</li>
+  <li>Ассоциация ВУЗов «Волга-Янцзы»</li>
+  <li>Российско-Китайская ассоциация медицинских университетов (РКАМУ)</li>
+</ul>
+
+<!--{{< button-link label="Submit a presentation"
                 url="https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi"
-                icon="cfp" >}}
---> 
+                icon="cfp" >}}--> 
 
-{{< button-link label="Список всех докладчиков"
+
+<!--{{< button-link label="Список всех докладчиков"
                 url="./speakers"
-                icon="right" >}}
+                icon="right" >}}-->
 
-{{% /home-speakers %}}
+{{% /home-info %}}
 
 
 <!-- ... -->
@@ -115,6 +127,6 @@ It is aimed at students, professionals or simply curious technophiles.
 <!-- ... --> 
 
 {{% partners categories="platinum,general-medical-nopromo,general,main,sponsor,support" %}}
-## Партнеры 
+## Спонсоры 
 
 {{% /partners %}}

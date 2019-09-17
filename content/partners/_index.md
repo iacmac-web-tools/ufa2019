@@ -1,5 +1,5 @@
 ---
-title: Партнёры
+title: Спонсоры
 menu:
   main:
     weight: 59
@@ -9,7 +9,7 @@ draft: false
 
 {{% hero %}}
 
-If you wish to become a sponsor, consult our sponsorship file and contact us at
+По вопросам сотрудничества компаний в мероприятиях МАКМАХ:
 
 {{< button-link label="partnership@antibiotic.ru"
                 url="mailto:partnership@antibiotic.ru"

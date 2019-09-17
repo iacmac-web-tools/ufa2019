@@ -17,6 +17,8 @@
     display: flex;
     flex-wrap: wrap;
 
+
+
     .wrapper {
       max-width: var(--theJdrSize);
       margin: 0 auto;
@@ -33,6 +35,11 @@
       display: flex;
       flex-direction: column;
       justify-content: center;
+
+      a {
+        color: var(--primary);
+        text-decoration: underline;
+      }
 
       @include mq($until: xl) {
         max-width: 100%;

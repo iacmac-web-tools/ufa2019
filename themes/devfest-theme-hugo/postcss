@@ -15,7 +15,7 @@
   --lighten-2: hsla(0, 100%, 100%, .25);
   --lighten-3: hsla(0, 100%, 100%, .5);
   --color-hero: ghostwhite;
-  --color-platium: #73737a;
+  --color-platinum: #73737a;
   --color-gold: #b7935b;
   --color-error: firebrick;
   --space-1: .125rem;
@@ -674,11 +674,17 @@ a.social {
   .partners-group .partner:hover, .partners-group .partner:focus {
     box-shadow: var(--box-shadow-2); }
 
-.partners-group.partner-platinium ul li {
+.partners-group.partner-platinum ul li {
   height: var(--partner-platinum-height);
   flex-basis: 320px; }
 
-.partners-group.partner-gold ul li, .partners-group.partner-startup ul li {
+.partners-group.partner-gold ul li,
+.partners-group.partner-startup ul li,
+.partners-group.partner-general-medical-nopromo ul li,
+.partners-group.partner-general ul li,
+.partners-group.partner-main ul li,
+.partners-group.partner-sponsor ul li,
+.partners-group.partner-support ul li {
   height: var(--partner-gold-height);
   flex-basis: 200px; }
 
@@ -705,17 +711,32 @@ a.social {
       left: 100%;
       margin-left: 15px; }
 
-.partners-group.partner-platinium .fancy {
+.partners-group.partner-platinum .fancy {
   font-size: 1.5em;
-  color: var(--color-platium); }
-  .partners-group.partner-platinium .fancy span:before, .partners-group.partner-platinium .fancy span:after {
+  color: var(--color-platinum); }
+  .partners-group.partner-platinum .fancy span:before, .partners-group.partner-platinum .fancy span:after {
     border-bottom: 1px solid currentColor;
     border-top: 1px solid currentColor; }
 
-.partners-group.partner-gold .fancy {
+.partners-group.partner-gold .fancy,
+.partners-group.partner-general-medical-nopromo .fancy,
+.partners-group.partner-general .fancy,
+.partners-group.partner-main .fancy,
+.partners-group.partner-sponsor .fancy,
+.partners-group.partner-support .fancy {
   font-size: 1.33em;
   color: var(--color-gold); }
-  .partners-group.partner-gold .fancy span:before, .partners-group.partner-gold .fancy span:after {
+  .partners-group.partner-gold .fancy span:before, .partners-group.partner-gold .fancy span:after,
+  .partners-group.partner-general-medical-nopromo .fancy span:before,
+  .partners-group.partner-general-medical-nopromo .fancy span:after,
+  .partners-group.partner-general .fancy span:before,
+  .partners-group.partner-general .fancy span:after,
+  .partners-group.partner-main .fancy span:before,
+  .partners-group.partner-main .fancy span:after,
+  .partners-group.partner-sponsor .fancy span:before,
+  .partners-group.partner-sponsor .fancy span:after,
+  .partners-group.partner-support .fancy span:before,
+  .partners-group.partner-support .fancy span:after {
     top: 20%;
     border-bottom: 1px solid currentColor; }
 
@@ -931,6 +952,9 @@ form input {
     display: flex;
     flex-direction: column;
     justify-content: center; }
+    .home main .info .inner a {
+      color: var(--primary);
+      text-decoration: underline; }
     @media (max-width: 71.24em) {
       .home main .info .inner {
         max-width: 100%; } }
