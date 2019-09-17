@@ -1,6 +1,6 @@
 ---
 key: na_t
-name: Та На
+name: На Та 
 feature: false
 company: 
 city: 'Китай'

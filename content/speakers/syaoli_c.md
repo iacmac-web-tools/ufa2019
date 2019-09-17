@@ -1,6 +1,6 @@
 ---
 key: syaoli_c
-name: Цао Сяоли
+name: Сяоли Цао
 feature: false
 company: 
 city: 'Китай'

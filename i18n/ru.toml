@@ -32,10 +32,10 @@ other = "Поделиться"
 other = "Поделиться на Facebook"
 
 [facebook_share_text]
-other = "Come join us at @DevFestToulouse the unavoidable conference for Software developers in Toulouse, France #DevFestToulouse"
+other = "Евразийский конгресс МАКМАХ по антимикробной терапии и клинической микробиологии, 17–18 октября 2019 г., Уфа"
 
 [twitter_share_text]
-other = "Come join us at @DevFestToulouse the unavoidable conference for Software developers in Toulouse, France #DevFestToulouse"
+other = "Евразийский конгресс МАКМАХ по антимикробной терапии и клинической микробиологии, 17–18 октября 2019 г., Уфа"
 
 [twitter_share_label]
 other = "Share on Twitter"
@@ -80,9 +80,9 @@ other = "Подписаться"
 
 # new cusom fields
 [vk_share_text]
-other = "Поделиться в Вконтакте"
+other = "Евразийский конгресс МАКМАХ по антимикробной терапии и клинической микробиологии, 17–18 октября 2019 г., Уфа"
 [vk_share_label]
-other = "Share on Twitter"
+other = "Поделиться в Вконтакте"
 [open_slides]
 other = "Презентация"
 

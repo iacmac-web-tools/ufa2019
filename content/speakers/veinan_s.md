@@ -1,6 +1,6 @@
 ---
 key: veinan_s
-name: Нань Сяо Вэй
+name: Вэй Нань Сяо
 feature: false
 company: 
 city: 'Китай'

@@ -1,20 +1,17 @@
 {{- if (eq .name "facebook") -}}
-{{ $text := i18n "facebook_share_text" }}
-<a href="https://www.facebook.com/sharer.php?u={{ .url }}&t={{ $text }}"
+<a href="https://www.facebook.com/sharer.php?u={{ .url }}&t={{ .title }}"
   class="social" rel="noreferrer" target="_blank">
 	{{ partial "icon.html" .name }}
 	{{- i18n "facebook_share_label" -}}
 </a>
 {{- else if (eq .name "twitter") -}}
-{{ $text := i18n "twitter_share_text" }}
-<a href="https://twitter.com/share?url={{ .url }}&text={{ $text }}"
+<a href="https://twitter.com/share?url={{ .url }}&text={{ .title }}"
   class="social" rel="noreferrer" target="_blank">
 	{{ partial "icon.html" .name }}
 	{{- i18n "twitter_share_label" -}}
 </a>
 {{- else if (eq .name "vk") -}}
-{{ $text := i18n "vk_share_text" }}
-<a href="http://vkontakte.ru/share.php?url={{ .url }}&title={{ $text }}"
+<a href="http://vkontakte.ru/share.php?url={{ .url }}&title={{ .title }}"
   class="social" rel="noreferrer" target="_blank">
 	{{ partial "icon.html" .name }}
 	{{- i18n "vk_share_label" -}}

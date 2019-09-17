@@ -25,12 +25,12 @@ menu:
 
 
 
-{{% home-info what="Participants:900,Day:1,Sessions:36,Parallel Tracks:4" class="primary" %}}
+<!--{{% home-info what="Participants:900,Day:1,Sessions:36,Parallel Tracks:4" class="primary" %}}
 ## Что такое МАКМАХ?
 
 The DevFest, or 'Developers Festival', is a technical conference for developers. 
 It is aimed at students, professionals or simply curious technophiles.
-{{% /home-info %}}
+{{% /home-info %}}-->
 
 
 <!--{{< youtube-section link="OH_Ne4Bm8I0" title="XXI конгресс МАКМАХ 22-24 мая 2019" class="" >}}-->
