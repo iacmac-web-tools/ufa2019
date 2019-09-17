@@ -58,15 +58,15 @@
 		{{ .Content }}
 	</div>
 
+		{{ if .Site.Params.displayComments }}
+		<div class="commentbox"></div>
+			{{ with .Site.Params.commentBox }} 
+				<script>commentBox('{{ . }}');</script> 
+			{{ end }}
+		{{ end }}
 
 </section>
 
-{{ if .Site.Params.displayComments }}
-<div class="commentbox"></div>
-	{{ with .Site.Params.commentBox }} 
-		<script>commentBox('{{ . }}');</script> 
-	{{ end }}
-{{ end }}
 
 
 
