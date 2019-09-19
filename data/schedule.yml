@@ -188,3 +188,15 @@
           talk: 18_R4_01_06
         - slot: discussion-d2-r4-1
           talk: __party
+    - room: room-5
+      slots:
+        - slot: 18_R5_01
+          talk: 18_R5_01
+        - slot: 18_R5_01_01
+          talk: 18_R5_01_01
+        - slot: 18_R5_01_02
+          talk: 18_R5_01_02
+        - slot: 18_R5_01_03
+          talk: 18_R5_01_03
+        - slot: 18_R5_01_04
+          talk: 18_R5_01_04

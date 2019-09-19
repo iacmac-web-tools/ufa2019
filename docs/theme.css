@@ -41,6 +41,7 @@
   --tag6: #fff2ae;
   --tag7: #f1e2cc;
   --tag8: #cccccc;
+  --tag9: #fcc7cb;
   --native-mobile-apps: var(--tag2);
   --web: var(--tag6);
   --method-tools: var(--tag5);
@@ -61,6 +62,7 @@
   --symposium-18-r3-1: var(--tag1);
   --symposium-18-r3-2: var(--tag2);
   --symposium-18-r4-1: var(--tag3);
+  --symposium-18-r5-1: var(--tag9);
   --office-hours: floralwhite;
   --keynote: paleturquoise;
   /* Jumbo section */
@@ -819,6 +821,9 @@ section .day-of-conference {
 
 .tag-symposium-18-r4-1 {
   background-color: var(--symposium-18-r4-1); }
+
+.tag-symposium-18-r5-1 {
+  background-color: var(--symposium-18-r5-1); }
 
 .icon {
   --size: 1em;

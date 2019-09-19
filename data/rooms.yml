@@ -14,6 +14,8 @@
   label: '#3'
 - key: room4
   label: '#4'
+- key: room5
+  label: '#5'  
 - key: room-1
   label: Концертный зал
 - key: room-2
@@ -22,3 +24,5 @@
   label: Выставочный зал
 - key: room-4
   label: Пресс-центр
+- key: room-5
+  label: Овальный зал

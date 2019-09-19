@@ -518,3 +518,33 @@
   row:
     start: 57
     end: 58
+# DAY 2 ROOM 5
+- key: 18_R5_01
+  duration: 0
+  row:
+    start: 32
+    end: 33
+- key: 18_R5_01_01
+  start: '15:00'
+  duration: 30
+  row:
+    start: 33
+    end: 39
+- key: 18_R5_01_02
+  start: '15:30'
+  duration: 15
+  row:
+    start: 39
+    end: 42
+- key: 18_R5_01_03
+  start: '15:45'
+  duration: 15
+  row:
+    start: 42
+    end: 45
+- key: 18_R5_01_04
+  start: '16:00'
+  duration: 15
+  row:
+    start: 45
+    end: 48
