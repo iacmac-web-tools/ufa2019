@@ -106,7 +106,7 @@ async function cleanupBeforePrint(page) {
 
     // DAY 2
     const page2 = await browser.newPage();
-    const scale2 = .46;
+    const scale2 = .36;
     const file2 = 'schedule/#day_2019-10-18';
     const output2 = 'static/schedule/day_2019-10-18.pdf';
     const url2 = `http://localhost:${serverConf.port}/${file2}`;
