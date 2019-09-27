@@ -29,7 +29,13 @@
 	</div>
 	{{ end }}
 	
-	<a class="btn primary btn-md" style="margin-top: 1em;" href="/ics/{{ .Params.key }}.ics">Добавить в календарь</a>
+	
+	<a class="btn primary btn-wide"  href="/ics/{{ .Params.key }}.ics">
+		<svg class="icon icon-calendar">
+			<use xlink:href="#calendar"/>
+		</svg>
+		Добавить в календарь
+	</a>
 	<div class="info">
 		{{ if .Params.subtitle }}
 		<div class="subtitle">

@@ -1,10 +1,10 @@
 ---
 title: Спонсоры
-menu:
-  main:
-    weight: 59
+# menu:
+#   main:
+#     weight: 59
 
-draft: false
+draft: true
 ---
 
 {{% hero %}}

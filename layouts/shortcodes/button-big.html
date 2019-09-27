@@ -1,0 +1,12 @@
+{{ $_hugo_config := `{ "version": 1 }` }}
+{{ $icon := .Get "icon" }}
+{{ $url := .Get "url" }}
+{{ $label := .Get "label" }}
+{{ $target := .Get "target" }}
+
+<a class="btn primary btn-wide" href="{{ $url }}" targer="{{ $target }} ">
+	{{ if and $icon (not (eq $icon "right")) }}{{ partial "icon.html" $icon }}{{ end }}
+	{{- $label -}}
+	{{ if eq $icon "right" }}{{ partial "icon.html" $icon }}{{ end }}
+</a>
+

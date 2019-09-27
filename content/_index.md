@@ -13,64 +13,14 @@ menu:
 ## 17–18 октября 2019 г.
 ### Уфа, ул. Заки Валиди, 2, Конгресс-холл «Торатау»
 
-<!-- <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://drive.google.com/file/d/1td_9Cr1b2JZvv0bCpOCJNDsEWgVgEp2Y/view?usp=sharing" target="_blank">Become a sponsor</a> -->
+{{< button-big label="ПРОГРАММА" url="/schedule/#day_2019-10-17" target="self" icon="calendar" >}} 
 
-<!--
-<a class="btn primary btn-lg" href="https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi">
-    <svg class="icon icon-cfp"><use xlink:href="#cfp"></use></svg>Submit a presentation
-</a>
--->
-{{< button-link label="РАСПИСАНИЕ"
-                url="/schedule/#day_2019-10-17"
-                icon="calendar" >}} 
+{{< button-map label="Как добраться"   address="Республика Башкортостан, г. фа,ул. Заки Валиди, 2"  latitude="54.721050"  longitude="55.928578"  icon="direction" >}}
+
+{{< button-big label="ДОКЛАДЧИКИ" target="self" url="/speakers" icon="cfp" >}} 
 
 {{% /jumbo %}}
 
-
-
-<!--{{% home-info what="Participants:900,Day:1,Sessions:36,Parallel Tracks:4" class="primary" %}}
-## Что такое МАКМАХ?
-
-The DevFest, or 'Developers Festival', is a technical conference for developers. 
-It is aimed at students, professionals or simply curious technophiles.
-{{% /home-info %}}-->
-
-
-<!--{{< youtube-section link="OH_Ne4Bm8I0" title="XXI конгресс МАКМАХ 22-24 мая 2019" class="" >}}-->
-
-<!-- ... -->
-
-
-{{% home-info %}}
-## Организаторы конференции:
-
-<ul>
-  <li>Межрегиональная ассоциация по клинической микробиологии и антимикробной химиотерапии (<a href="http://www.iacmac.ru/iacmac/" target="_blank">МАКМАХ</a>)</li>
-  <li>Европейское общество по клинической микробиологии и инфекционным болезням (<a href="/url?www.escmid.org/" target="_blank">ESCMID</a>)</li>
-  <li>Международное общество по антимикробной химиотерапии (<a href="http://www.ischemo.org/" target="_blank">ISAC</a>)</li>
-  <li>ФГБОУ ВО «Башкирский государственный медицинский университет» Министерства здравоохранения Российской Федерации</li>
-  <li>Министерство здравоохранения Республики Башкортостан</li>
-  <li>Цзилиньский университет</li>
-  <li>Бухарский государственный медицинский институт</li>
-  <li>Ассоциация ВУЗов «Волга-Янцзы»</li>
-  <li>Российско-Китайская ассоциация медицинских университетов (РКАМУ)</li>
-  <li>НИИ антимикробной химиотерапии (<a href="http://www.iacmac.ru/iac.php" target="_blank">НИИАХ</a>) ФГБОУ ВО «Смоленский государственный медицинский университет» Министерства здравоохранения Российской Федерации</li>  
-</ul>
-
-<!--{{< button-link label="Submit a presentation"
-                url="https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi"
-                icon="cfp" >}}--> 
-
-
-<!--{{< button-link label="Список всех докладчиков"
-                url="./speakers"
-                icon="right" >}}-->
-
-{{% /home-info %}}
-
-
-
-<!-- ... -->
 
 {{% home-subscribe  class="primary" %}}
 
@@ -78,9 +28,9 @@ It is aimed at students, professionals or simply curious technophiles.
 
 {{% /home-subscribe %}}
 
-<!-- 
 
-{{% home-tickets class="primary" %}}
+
+<!-- {{% home-tickets class="primary" %}}
 # Tickets <a class="btn primary" href="https://www.billetweb.fr/devfest-toulouse-2019" target="_blank"><svg class="icon icon-cfp"><use xlink:href="#ticket"></use></svg>Ticketing</a>
 <ul>
 <li>{{< ticket name="Blind Birds"
@@ -107,24 +57,19 @@ It is aimed at students, professionals or simply curious technophiles.
 </ul>
 \* Your ticket gives you access to all conferences, coffee breaks, and lunch. Accommodation is NOT included in this price.
 
-{{% /home-tickets %}}
+{{% /home-tickets %}} -->
 
 
--->
 
-{{% home-location
+
+<!-- {{% home-location
     image="/images/map.jpg"
     address="Республика Башкортостан, г. Уфа, ул. Заки Валиди, 2"
     latitude="54.721050"
-    longitude="55.928578" %}}
+    longitude="55.928578" %}}  -->
 
-## 17–18 октября 2019
 
-### Конгресс-холл Торатау
-
-Евразийский конгресс по антимикробной терапии и клинической микробиологии
-
-{{% /home-location %}}
+<!-- {{% /home-location %}} -->
 
 
 <!-- 
