@@ -1,6 +1,6 @@
 ---
 key: zulkarneeva_em
-name: Зулкарнеева Эльмира Маратовна 
+name: Зулкарнеева Эльмира Маратовна
 feature: false
 company: 
 city: 'Россия'

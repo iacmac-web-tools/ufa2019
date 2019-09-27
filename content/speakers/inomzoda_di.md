@@ -4,7 +4,7 @@ name: Иномзода Джура Иномович
 feature: false
 company: 
 city: 'Таджикистан, Душанбе'
-photoURL: https://wallpapercave.com/wp/wp4215291.jpg
+photoURL: https://sun9-5.userapi.com/c851524/v851524395/1ba2ae/25-50lB9T3U.jpg
 
 ---
 - кандидат медицинских наук

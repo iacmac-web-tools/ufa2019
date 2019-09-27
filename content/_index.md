@@ -20,6 +20,9 @@ menu:
     <svg class="icon icon-cfp"><use xlink:href="#cfp"></use></svg>Submit a presentation
 </a>
 -->
+{{< button-link label="РАСПИСАНИЕ"
+                url="/schedule/#day_2019-10-17"
+                icon="calendar" >}} 
 
 {{% /jumbo %}}
 
@@ -36,7 +39,6 @@ It is aimed at students, professionals or simply curious technophiles.
 <!--{{< youtube-section link="OH_Ne4Bm8I0" title="XXI конгресс МАКМАХ 22-24 мая 2019" class="" >}}-->
 
 <!-- ... -->
-
 
 
 {{% home-info %}}
@@ -67,11 +69,12 @@ It is aimed at students, professionals or simply curious technophiles.
 {{% /home-info %}}
 
 
+
 <!-- ... -->
 
 {{% home-subscribe  class="primary" %}}
 
-## Участие в конференции для специалистов здравоохранения является бесплатным
+## Участие в конференции для специалистов здравоохранения является бесплатным.
 
 {{% /home-subscribe %}}
 
@@ -124,9 +127,10 @@ It is aimed at students, professionals or simply curious technophiles.
 {{% /home-location %}}
 
 
-<!-- ... --> 
+<!-- 
 
 {{% partners categories="platinum,general-medical-nopromo,general,main,sponsor,support" %}}
 ## Спонсоры 
 
 {{% /partners %}}
+--> 
