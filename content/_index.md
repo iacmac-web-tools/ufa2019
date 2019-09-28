@@ -19,6 +19,10 @@ menu:
 
 {{< button-big label="ДОКЛАДЧИКИ" target="self" url="/speakers" icon="cfp" >}} 
 
+{{< button-big label="Пройти опрос участника"
+                url="https://forms.gle/yM3KcLZS1TwmUwkZ9"
+                target="_blank" >}} 
+
 {{% /jumbo %}}
 
 
