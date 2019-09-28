@@ -11,7 +11,7 @@
 	{{- template "_internal/google_news.html" . -}}
 	{{- template "_internal/schema.html" . -}}
 	{{- template "_internal/twitter_cards.html" . -}}
-	{{- template "_internal/google_analytics_async.html" . -}}
+	{{ partial "google_analytics_gdpr.html" .}}
 	{{ end }}
 
 	{{ if .Site.Params.displayComments }}
