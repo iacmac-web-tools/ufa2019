@@ -63,8 +63,12 @@
           talk: 17_R2_01_04
         - slot: 17_R2_01_05
           talk: 17_R2_01_05
-        - slot: discussion-d1-r2-1
-          talk: __party
+        - slot: 17_R2_01_06
+          talk: 17_R2_01_06
+        - slot: 17_R2_01_07
+          talk: 17_R2_01_07
+        - slot: 17_R2_01_08
+          talk: 17_R2_01_08          
         - slot: pause-d1-r2-1
           talk: __pause
         - slot: 17_R2_02
@@ -79,8 +83,6 @@
           talk: 17_R2_02_04
         - slot: 17_R2_02_05
           talk: 17_R2_02_05
-        - slot: 17_R2_02_06
-          talk: 17_R2_02_06
         - slot: discussion-d1-r2-2
           talk: __party
 - day: '2019-10-18'
@@ -146,10 +148,10 @@
           talk: 18_R3_01_04
         - slot: 18_R3_01_05
           talk: 18_R3_01_05
-        - slot: discussion-d2-r3-1
-          talk: __party
+        - slot: 18_R3_01_06
+          talk: 18_R3_01_06
         - slot: pause-d2-r3-1
-          talk: __pause
+          talk: __pause        
         - slot: 18_R3_02
           talk: 18_R3_02
         - slot: 18_R3_02_01
