@@ -196,48 +196,48 @@
   duration: 10
   row:
     start: 85
-    end: 87
+    end: 86
 
 - key: 17_R2_02
   duration: 0
   row:
-    start: 87
-    end: 88
+    start: 86
+    end: 87
 - key: 17_R2_02_01
   start: '15:45'
   duration: 30
   row:
-    start: 88
-    end: 94
+    start: 87
+    end: 93
 - key: 17_R2_02_02
   start: '16:15'
   duration: 20
   row:
-    start: 94
-    end: 98
+    start: 93
+    end: 97
 - key: 17_R2_02_03
   start: '16:35'
   duration: 30
   row:
-    start: 98
-    end: 104
+    start: 97
+    end: 103
 - key: 17_R2_02_04
   start: '17:05'
   duration: 20
   row:
-    start: 104
-    end: 108
+    start: 103
+    end: 107
 - key: 17_R2_02_05
   start: '17:25'
   duration: 20
   row:
-    start: 108
-    end: 112
+    start: 107
+    end: 111
 - key: discussion-d1-r2-2
   start: '17:45'
   duration: 5
   row:
-    start: 112
+    start: 111
     end: 113
 # DAY 2 ROOM 1
 - key: 18_R1_01

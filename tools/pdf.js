@@ -93,7 +93,7 @@ async function cleanupBeforePrint(page) {
 
     // DAY 1
     const page = await browser.newPage();
-    const scale = .48;
+    const scale = .46;
     const file = 'schedule/#day_2019-10-17';
     const output = 'static/schedule/day_2019-10-17.pdf';
     const url = `http://localhost:${serverConf.port}/${file}`;
@@ -106,7 +106,7 @@ async function cleanupBeforePrint(page) {
 
     // DAY 2
     const page2 = await browser.newPage();
-    const scale2 = .36;
+    const scale2 = .35;
     const file2 = 'schedule/#day_2019-10-18';
     const output2 = 'static/schedule/day_2019-10-18.pdf';
     const url2 = `http://localhost:${serverConf.port}/${file2}`;
