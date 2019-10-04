@@ -1,6 +1,6 @@
 ---
 key: baikov_gv
-name: Байков 
+name: Байкова Г.В.
 feature: false
 company: 
 city: 'Россия'

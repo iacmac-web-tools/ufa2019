@@ -1,6 +1,6 @@
 ---
 key: habirov_rf
-name: Хабиров
+name: Хабиров Р.Ф.
 feature: false
 company: 
 city: 'Россия'

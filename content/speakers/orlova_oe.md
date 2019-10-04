@@ -1,6 +1,6 @@
 ---
 key: orlova_oe
-name: Орлова
+name: Орлова О.Е.
 feature: false
 company: 
 city: 'Россия'

@@ -1,6 +1,6 @@
 ---
 key: zabelin_mv
-name: Забелин
+name: Забелин М.В.
 feature: false
 company: 
 city: 'Россия'

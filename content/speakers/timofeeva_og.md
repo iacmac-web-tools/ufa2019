@@ -1,6 +1,6 @@
 ---
 key: timofeeva_og
-name: Тимофеева 
+name: Тимофеева О.Г.
 feature: false
 company: 
 city: 'Россия'

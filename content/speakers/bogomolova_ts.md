@@ -1,6 +1,6 @@
 ---
 key: bogomolova_ts
-name: Богомолова 
+name: Богомолова Т.С.
 feature: false
 company: 
 city: 'Россия'

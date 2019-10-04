@@ -1,6 +1,6 @@
 ---
 key: kozireva_ls
-name: Козырева 
+name: Козырева Л.С.
 feature: false
 company: 
 city: 'Россия'

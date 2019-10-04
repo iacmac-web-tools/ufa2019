@@ -1,6 +1,6 @@
 ---
 key: inoyatov_as
-name: Иноятов
+name: Иноятов А.С.
 feature: false
 company: 
 city: 'Узбекистан'
