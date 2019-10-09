@@ -4,7 +4,7 @@ name: Павлов Валентин Николаевич
 feature: false
 company: 
 city: 'Россия, Уфа'
-photoURL: http://www.iacmac.ru/images/photos/person/pavlov_vn.jpg
+photoURL: https://sun9-40.userapi.com/c851136/v851136097/1dfebc/SdZRbkbSCuM.jpg
 
 ---
 - член-корреспондент РАН

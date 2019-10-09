@@ -4,7 +4,7 @@ name: Орлова Ольга Евгеньевна
 feature: false
 company: 
 city: 'Россия, Москва'
-photoURL: http://www.iacmac.ru/images/photos/person/orlova_oe.jpg
+photoURL: https://sun9-49.userapi.com/c856128/v856128610/416fb/alwpOQVLxKk.jpg
 
 ---
 - кандидат биологических наук
