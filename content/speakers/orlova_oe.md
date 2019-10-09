@@ -1,9 +1,11 @@
 ---
 key: orlova_oe
-name: Орлова О.Е.
+name: Орлова Ольга Евгеньевна
 feature: false
 company: 
-city: 'Россия'
-photoURL: https://sun9-5.userapi.com/c851524/v851524395/1ba2ae/25-50lB9T3U.jpg
+city: 'Россия, Москва'
+photoURL: http://www.iacmac.ru/images/photos/person/orlova_oe.jpg
 
 ---
+- кандидат биологических наук
+- руководитель лаборатории микробиологии в городской клиничеcкой больнице № 67 имени Л.А. Ворохобова
