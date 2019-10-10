@@ -3,7 +3,7 @@ title: "[Contest] Find out when is the 2019 edition taking place"
 brief: Several dozen of people played our contest to get the first 2019 ticket
 image: /images/blog/encryption.jpeg
 date: 2019-01-20
-draft: false
+draft: true
 ---
 
 Today we released the following tweet:

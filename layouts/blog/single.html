@@ -1,0 +1,31 @@
+{{ define "main" }}
+{{ $lang := $.Page.Language.Lang }}
+<div class="hero">
+	{{ if .Params.image }}
+	<div class="img" style="color: {{ .Params.color | default "#fff" }};background-image: url({{ .Params.image }})">
+	</div>
+	{{ end }}
+
+	<div class="description">
+		<h1>
+			<span>{{ .Title }}</span>
+			<small>{{ .Params.brief }}</small>
+		</h1>
+		{{ if .Params.toc }}
+			<hr>
+			{{ .TableOfContents }} 
+		{{ end }}
+	</div>
+</div>
+
+<section class="talk">
+
+	<div class="info">
+		<div class="detail">
+			<div class="content">{{ .Content }}</div>
+		</div>
+
+	</div>
+</section>
+
+{{ end }}

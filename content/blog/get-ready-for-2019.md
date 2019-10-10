@@ -1,9 +1,15 @@
 ---
 title: Get ready for DevFest Toulouse 2019!
 brief: DevFest season is back
-image: /images/blog/hello-2019.jpg
+image: 
 date: 2019-01-28
-draft: false
+draft: true
+
+menu:
+  main:
+    weight: 97
+
+
 ---
 
 Today it is with great pleasure that we announce you that the 4th edition of DevFest Toulouse will take place **October 3rd 2019 at the center of congress Pierre Baudis**.

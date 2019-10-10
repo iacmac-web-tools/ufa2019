@@ -1,48 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on МАКМАХ | Уфа 2019</title>
+    <title>Новости on МАКМАХ | Уфа 2019</title>
     <link>http://ufa2019.iacmac.ru/blog/</link>
-    <description>Recent content in Blogs on МАКМАХ | Уфа 2019</description>
+    <description>Recent content in Новости on МАКМАХ | Уфа 2019</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
-    <lastBuildDate>Sat, 23 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://ufa2019.iacmac.ru/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Call For Paper</title>
-      <link>http://ufa2019.iacmac.ru/blog/cfp/</link>
-      <pubDate>Sat, 23 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Баллы НМО</title>
+      <link>http://ufa2019.iacmac.ru/blog/nmo/</link>
+      <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://ufa2019.iacmac.ru/blog/cfp/</guid>
-      <description>DevFest Toulouse will take place on October 3rd, 2019 at Pierre Baudis congress center. Our fourth edition will gather 900 attendees!
-While waiting for the D-day do not hesitate to propose a talk at DevFest Toulouse CFP. It is now open and this year it will be for 2 months only (from March the 25th to Mai the 25th.)
-Be aware that at mid terms, we will select our “early speakers”, so do not wait till the end!</description>
-    </item>
-    
-    <item>
-      <title>Get ready for DevFest Toulouse 2019!</title>
-      <link>http://ufa2019.iacmac.ru/blog/get-ready-for-2019/</link>
-      <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://ufa2019.iacmac.ru/blog/get-ready-for-2019/</guid>
-      <description>Today it is with great pleasure that we announce you that the 4th edition of DevFest Toulouse will take place October 3rd 2019 at the center of congress Pierre Baudis.
-As last year, the event will be right in the city center, in the Compans Cafarelli neighborhood. The center of congress Pierre Baudis is accessible by the subway, bus or even by car. This year we will have more space, more sponsors and more attendees</description>
-    </item>
-    
-    <item>
-      <title>[Contest] Find out when is the 2019 edition taking place</title>
-      <link>http://ufa2019.iacmac.ru/blog/find-out-when-is-edition-2019-contest/</link>
-      <pubDate>Sun, 20 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://ufa2019.iacmac.ru/blog/find-out-when-is-edition-2019-contest/</guid>
-      <description>Today we released the following tweet:
-📅 L&amp;#39;édition du DevFest Toulouse 2019 est en cours de préparation. Sois le premier à découvrir la date ! https://t.co/Yo5bR1VNAv?
-La première personne à trouver gagnera une surprise ! 🎁#DevFestToulouse pic.twitter.com/1EGfaJ80DE
-&amp;mdash; DevFest Toulouse (@DevFestToulouse) January 21, 2019  We created this contest to engage our community and it did not take long (around 20 minutes) until we got a winner 😱!
-Bravo à toutes les personnes qui ont décodées la date de la prochaine édition du #DevFestToulouse.</description>
+      <guid>http://ufa2019.iacmac.ru/blog/nmo/</guid>
+      <description> Сайт НМО  В системе НМО на получение 12 баллов аккредитована основная сетка научной программы, проходящей в Концертном зале 17 и 18 октября.
+Получение индивидуальных кодов - 18 октября после окончания последнего симпозиума.
+Коды выдаются зарегистрировавшимся на стойке регистрации 17 и 18 октября в начале и в конце рабочего дня конгресса.
+Целевые специальности:
+ акушерство и гинекология, анестезиология-реаниматология, бактериология, вирусология, гастроэнтерология, инфекционные болезни, клиническая лабораторная диагностика, клиническая фармакология, лечебное дело, неонатология, общая врачебная практика (семейная медицина), педиатрия, пульмонология, сердечно-сосудистая хирургия, терапия, травматология и ортопедия, урология, хирургия, эпидемиология  </description>
     </item>
     
   </channel>

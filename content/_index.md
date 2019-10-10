@@ -19,7 +19,7 @@ menu:
 
 {{< button-big label="ДОКЛАДЧИКИ" target="self" url="/speakers" icon="cfp" >}} 
 
-{{< button-big label="БАЛЛЫ НМО" target="self" url="/nmo" >}}
+{{< button-big label="БАЛЛЫ НМО" target="self" url="/blog/nmo" >}}
 
 {{< button-big label="Пройти опрос участника"
                 url="https://forms.gle/yM3KcLZS1TwmUwkZ9"
