@@ -15,13 +15,16 @@ menu:
 
 {{< button-big label="ПРОГРАММА" url="/schedule/#day_2019-10-17" target="self" icon="calendar" >}} 
 
-{{< button-map label="Как добраться"   address="Республика Башкортостан, г. фа,ул. Заки Валиди, 2"  latitude="54.721050"  longitude="55.928578"  icon="direction" >}}
+{{< button-map label="Как добраться"   address="Республика Башкортостан, г. Уфа, ул. Заки Валиди, 2"  latitude="54.721050"  longitude="55.928578"  icon="direction" >}}
 
 {{< button-big label="ДОКЛАДЧИКИ" target="self" url="/speakers" icon="cfp" >}} 
 
+{{< button-big label="БАЛЛЫ НМО" target="self" url="/nmo" >}}
+
 {{< button-big label="Пройти опрос участника"
                 url="https://forms.gle/yM3KcLZS1TwmUwkZ9"
-                target="_blank" >}} 
+                target="_blank" 
+               >}} 
 
 {{% /jumbo %}}
 
