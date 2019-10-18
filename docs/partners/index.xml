@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Спонсоры on МАКМАХ | Уфа 2019</title>
+    <title>Partners on МАКМАХ | Уфа 2019</title>
     <link>http://ufa2019.iacmac.ru/partners/</link>
-    <description>Recent content in Спонсоры on МАКМАХ | Уфа 2019</description>
+    <description>Recent content in Partners on МАКМАХ | Уфа 2019</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
     
@@ -29,20 +29,20 @@
     </item>
     
     <item>
-      <title>Bio-Rad</title>
-      <link>http://ufa2019.iacmac.ru/partners/support/bio-rad/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://ufa2019.iacmac.ru/partners/support/bio-rad/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>BRUKER</title>
       <link>http://ufa2019.iacmac.ru/partners/support/bruker/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://ufa2019.iacmac.ru/partners/support/bruker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bio-Rad</title>
+      <link>http://ufa2019.iacmac.ru/partners/support/bio-rad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ufa2019.iacmac.ru/partners/support/bio-rad/</guid>
       <description></description>
     </item>
     

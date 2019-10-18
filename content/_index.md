@@ -28,6 +28,7 @@ menu:
 
 {{% /jumbo %}}
 
+{{< youtube-section link="A3N0trjbPzs" title="Евразийский конгресс МАКМАХ. День первый." class="" >}}
 
 {{% home-subscribe  class="primary" %}}
 
