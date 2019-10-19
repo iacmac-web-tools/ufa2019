@@ -17,7 +17,7 @@
       <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>http://ufa2019.iacmac.ru/blog/nmo/</guid>
-      <description>Сайт НМОВ системе НМО на получение 12 баллов аккредитована основная сетка научной программы, проходящей в Концертном зале 17 и 18 октября.
+      <description> Сайт НМО  В системе НМО на получение 12 баллов аккредитована основная сетка научной программы, проходящей в Концертном зале 17 и 18 октября.
 Получение индивидуальных кодов - 18 октября после окончания последнего симпозиума.
 Коды выдаются зарегистрировавшимся на стойке регистрации 17 и 18 октября в начале и в конце рабочего дня конгресса.
 Целевые специальности:
@@ -727,20 +727,20 @@
     </item>
     
     <item>
-      <title>BRUKER</title>
-      <link>http://ufa2019.iacmac.ru/partners/support/bruker/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://ufa2019.iacmac.ru/partners/support/bruker/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Bio-Rad</title>
       <link>http://ufa2019.iacmac.ru/partners/support/bio-rad/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://ufa2019.iacmac.ru/partners/support/bio-rad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BRUKER</title>
+      <link>http://ufa2019.iacmac.ru/partners/support/bruker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ufa2019.iacmac.ru/partners/support/bruker/</guid>
       <description></description>
     </item>
     
@@ -862,15 +862,6 @@
     </item>
     
     <item>
-      <title>KRKA</title>
-      <link>http://ufa2019.iacmac.ru/partners/main/krka/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://ufa2019.iacmac.ru/partners/main/krka/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Kevin Davin</title>
       <link>http://ufa2019.iacmac.ru/team/core/kevin_davin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -889,20 +880,20 @@
     </item>
     
     <item>
+      <title>KRKA</title>
+      <link>http://ufa2019.iacmac.ru/partners/main/krka/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ufa2019.iacmac.ru/partners/main/krka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Lionel Porcheron</title>
       <link>http://ufa2019.iacmac.ru/team/volunteers/lionel_porcheron/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://ufa2019.iacmac.ru/team/volunteers/lionel_porcheron/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MSD</title>
-      <link>http://ufa2019.iacmac.ru/partners/platinum/msd/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://ufa2019.iacmac.ru/partners/platinum/msd/</guid>
       <description></description>
     </item>
     
@@ -921,6 +912,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://ufa2019.iacmac.ru/team/core/michael_pailloncy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MSD</title>
+      <link>http://ufa2019.iacmac.ru/partners/platinum/msd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ufa2019.iacmac.ru/partners/platinum/msd/</guid>
       <description></description>
     </item>
     

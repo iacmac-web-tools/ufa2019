@@ -30,11 +30,11 @@ menu:
 
 {{< youtube-section link="A3N0trjbPzs" title="Евразийский конгресс МАКМАХ. День первый." class="" >}}
 
-{{% home-subscribe  class="primary" %}}
+<!-- {{% home-subscribe  class="primary" %}}
 
 ## Участие в конференции для специалистов здравоохранения является бесплатным.
 
-{{% /home-subscribe %}}
+{{% /home-subscribe %}} -->
 
 
 

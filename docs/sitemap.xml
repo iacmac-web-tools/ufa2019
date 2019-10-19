@@ -3,18 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://ufa2019.iacmac.ru/blog/</loc>
-    <lastmod>2019-10-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://ufa2019.iacmac.ru/blog/nmo/</loc>
     <lastmod>2019-10-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://ufa2019.iacmac.ru/</loc>
+    <lastmod>2019-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ufa2019.iacmac.ru/blog/</loc>
     <lastmod>2019-10-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -331,11 +330,11 @@
   </url>
   
   <url>
-    <loc>http://ufa2019.iacmac.ru/partners/support/bruker/</loc>
+    <loc>http://ufa2019.iacmac.ru/partners/support/bio-rad/</loc>
   </url>
   
   <url>
-    <loc>http://ufa2019.iacmac.ru/partners/support/bio-rad/</loc>
+    <loc>http://ufa2019.iacmac.ru/partners/support/bruker/</loc>
   </url>
   
   <url>
@@ -391,10 +390,6 @@
   </url>
   
   <url>
-    <loc>http://ufa2019.iacmac.ru/partners/main/krka/</loc>
-  </url>
-  
-  <url>
     <loc>http://ufa2019.iacmac.ru/team/core/kevin_davin/</loc>
   </url>
   
@@ -403,11 +398,15 @@
   </url>
   
   <url>
+    <loc>http://ufa2019.iacmac.ru/partners/main/krka/</loc>
+  </url>
+  
+  <url>
     <loc>http://ufa2019.iacmac.ru/team/volunteers/lionel_porcheron/</loc>
   </url>
   
   <url>
-    <loc>http://ufa2019.iacmac.ru/partners/platinum/msd/</loc>
+    <loc>http://ufa2019.iacmac.ru/tags/lunch/</loc>
   </url>
   
   <url>
@@ -419,8 +418,19 @@
   </url>
   
   <url>
-    <loc>http://ufa2019.iacmac.ru/partners/</loc>
-    <priority>0</priority>
+    <loc>http://ufa2019.iacmac.ru/partners/platinum/msd/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ufa2019.iacmac.ru/tags/open/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ufa2019.iacmac.ru/tags/party/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ufa2019.iacmac.ru/tags/pause/</loc>
   </url>
   
   <url>
@@ -452,13 +462,55 @@
   </url>
   
   <url>
-    <loc>http://ufa2019.iacmac.ru/tags/</loc>
-    <priority>0</priority>
+    <loc>http://ufa2019.iacmac.ru/tags/symposium-17-r1-1/</loc>
   </url>
   
   <url>
-    <loc>http://ufa2019.iacmac.ru/team/</loc>
-    <priority>0</priority>
+    <loc>http://ufa2019.iacmac.ru/tags/symposium-17-r1-2/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ufa2019.iacmac.ru/tags/symposium-17-r1-3/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ufa2019.iacmac.ru/tags/symposium-17-r2-1/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ufa2019.iacmac.ru/tags/symposium-17-r2-2/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ufa2019.iacmac.ru/tags/symposium-18-r1-1/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ufa2019.iacmac.ru/tags/symposium-18-r1-2/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ufa2019.iacmac.ru/tags/symposium-18-r1-3/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ufa2019.iacmac.ru/tags/symposium-18-r3-1/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ufa2019.iacmac.ru/tags/symposium-18-r3-2/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ufa2019.iacmac.ru/tags/symposium-18-r4-1/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ufa2019.iacmac.ru/tags/symposium-18-r5-1/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ufa2019.iacmac.ru/tags/</loc>
   </url>
   
   <url>
@@ -471,86 +523,6 @@
   
   <url>
     <loc>http://ufa2019.iacmac.ru/partners/sponsor/zambon/</loc>
-  </url>
-  
-  <url>
-    <loc>http://ufa2019.iacmac.ru/tags/lunch/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://ufa2019.iacmac.ru/tags/open/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://ufa2019.iacmac.ru/tags/party/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://ufa2019.iacmac.ru/tags/pause/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://ufa2019.iacmac.ru/tags/symposium-17-r1-1/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://ufa2019.iacmac.ru/tags/symposium-17-r1-2/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://ufa2019.iacmac.ru/tags/symposium-17-r1-3/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://ufa2019.iacmac.ru/tags/symposium-17-r2-1/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://ufa2019.iacmac.ru/tags/symposium-17-r2-2/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://ufa2019.iacmac.ru/tags/symposium-18-r1-1/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://ufa2019.iacmac.ru/tags/symposium-18-r1-2/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://ufa2019.iacmac.ru/tags/symposium-18-r1-3/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://ufa2019.iacmac.ru/tags/symposium-18-r3-1/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://ufa2019.iacmac.ru/tags/symposium-18-r3-2/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://ufa2019.iacmac.ru/tags/symposium-18-r4-1/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://ufa2019.iacmac.ru/tags/symposium-18-r5-1/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -699,6 +671,10 @@
   
   <url>
     <loc>http://ufa2019.iacmac.ru/sessions/18_r4_01_03/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ufa2019.iacmac.ru/team/</loc>
   </url>
   
   <url>
@@ -851,6 +827,10 @@
   
   <url>
     <loc>http://ufa2019.iacmac.ru/sessions/17_r2_02_01/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ufa2019.iacmac.ru/partners/</loc>
   </url>
   
   <url>
