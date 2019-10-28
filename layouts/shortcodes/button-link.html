@@ -3,9 +3,10 @@
 {{ $url := .Get "url" }}
 {{ $label := .Get "label" }}
 
-<a class="btn primary btn-lg" href="{{ $url }}">
+<a class="btn primary btn-lg js-download-cite" href="{{ $url }}">
 	{{ if and $icon (not (eq $icon "right")) }}{{ partial "icon.html" $icon }}{{ end }}
 	{{- $label -}}
 	{{ if eq $icon "right" }}{{ partial "icon.html" $icon }}{{ end }}
 </a>
+
 

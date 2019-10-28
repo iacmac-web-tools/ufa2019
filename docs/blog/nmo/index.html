@@ -96,7 +96,7 @@ function myScripts() {
 
 
 	
-
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
 	
 		<script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
 
@@ -134,6 +134,8 @@ function myScripts() {
 
 	
 	
+	
+
 	
 </head>
 
@@ -365,7 +367,7 @@ function myScripts() {
 
 
 
-<a class="btn primary btn-wide" href="http://www.sovetnmo.ru/conf_posts/22865.html?SSr=410134172209ffffffff27c__07e30a0a09292b-1bfa" targer="_blank ">
+<a class="btn primary btn-wide js-download-cite" href="http://www.sovetnmo.ru/conf_posts/22865.html?SSr=410134172209ffffffff27c__07e30a0a09292b-1bfa" targer="_blank">
 	Сайт НМО<svg class="icon icon-right">
 	<use xlink:href="#right"/>
 </svg>
@@ -510,7 +512,7 @@ function myScripts() {
 				</ul>
 			</div>
 			<div class="email">
-				<a href="mailto:conference@antibiotic.ru">
+				<a href="mailto:conference@antibiotic.ru" class="js-download-cite">
 					<svg class="icon icon-email">
 	<use xlink:href="#email"/>
 </svg>conference@antibiotic.ru</a>
@@ -519,6 +521,24 @@ function myScripts() {
 
 	</div>
 </footer>
+
+<script>
+    $(document).ready(function () {
+
+		$('a[class*="js-download-cite"]').click(function (event) {
+			console.log('cite download:');
+            ga('send', 'event', {
+                eventCategory: 'cite',
+                eventAction: 'download',
+                eventLabel: "\/blog\/nmo\/",
+                eventValue: event.target.href
+                
+            });
+            console.log('cite download:'+ event.target.href + '|' + "\/blog\/nmo\/");
+		});
+		
+	});
+</script>
 
 
 

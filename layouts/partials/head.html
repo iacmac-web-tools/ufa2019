@@ -13,7 +13,7 @@
 	{{- template "_internal/twitter_cards.html" . -}}
 	{{ partial "google_analytics_gdpr.html" .}}
 	{{ end }}
-
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
 	{{ if .Site.Params.displayComments }}
 		<script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
 
@@ -52,4 +52,6 @@
 	{{ block "headextra" . }}
 	<!-- No extra headextra -->
 	{{ end }}
+
+	
 </head>
