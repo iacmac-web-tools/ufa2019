@@ -29,7 +29,7 @@
 				</ul>
 			</div>
 			<div class="email">
-				<a href="mailto:{{ .Site.Params.email }}" class="js-download-cite">
+				<a href="mailto:{{ .Site.Params.email }}">
 					{{ partial "icon.html" "email" }}
 					{{- .Site.Params.email -}}
 				</a>
@@ -38,21 +38,3 @@
 
 	</div>
 </footer>
-
-<script>
-    $(document).ready(function () {
-
-		$('a[class*="js-download-cite"]').click(function (event) {
-			console.log('cite download:');
-            ga('send', 'event', {
-                eventCategory: 'cite',
-                eventAction: 'download',
-                eventLabel: "{{ .RelPermalink  }}",
-                eventValue: event.target.href
-                
-            });
-            console.log('cite download:'+ event.target.href + '|' + "{{ .RelPermalink  }}");
-		});
-		
-	});
-</script>
