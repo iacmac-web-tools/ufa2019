@@ -28,7 +28,16 @@ menu:
 
 {{% /jumbo %}}
 
+{{% home-info what="Участников:1813,Регионов России:45,Докладов:28,Зарубежных докладчиков:6" class="primary" %}}
+## Евразийский конгресс МАКМАХ по антимикробной терапии и клинической микробиологии — это
+
+{{% /home-info %}}
+
 {{< youtube-section link="A3N0trjbPzs" title="Евразийский конгресс МАКМАХ. День первый." class="" >}}
+
+{{< youtube-section link="FmptiV_UKVs" title="Отчётное видео о двух днях Евразийского конгресса МАКМАХ в Уфе (17-18 октября 2019)" class="primary" >}}
+
+{{< youtube-section link="X1REPsIEhpU" title="Итоговая инфографика" class="" >}}
 
 <!-- {{% home-subscribe  class="primary" %}}
 
