@@ -25,6 +25,12 @@
       display: flex;
     }
 
+    .wrapper-auto {
+      max-width: var(--theJdrSize);
+      margin: 0 auto;
+      display: contents;
+    }
+
     @include mq($until: md) {
       text-align: center;
     }
